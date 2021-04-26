@@ -50,7 +50,7 @@ class State():
 	num_voters: number of voters that participated in the state
 	electoral_votes: number of electoral votes deligated to the state
 	alternatives: dictionary of candidates where the candidates symbol is the key and the percentage
-					of votes they received in a given state (lambda) is the value
+			of votes they received in a given state (lambda) is the value
 	profile_probabilities: list to store a possible preference and the probability of an agent having that preference
 	votes: list to store preferences and the number of votes with a given preference
 	points: dictionary where candidates are the key values and the number of points they receive are
@@ -90,8 +90,8 @@ class State():
 			alt4 = profile[3]
 
 			probability = ( ( self.alternatives[alt1] / ( self.alternatives[alt1] + self.alternatives[alt2] + self.alternatives[alt3] + self.alternatives[alt4] ) ) *
-							( self.alternatives[alt2] / ( self.alternatives[alt2] + self.alternatives[alt3] + self.alternatives[alt4] ) ) *
-							( self.alternatives[alt3] / ( self.alternatives[alt3] + self.alternatives[alt4] ) ) )
+					( self.alternatives[alt2] / ( self.alternatives[alt2] + self.alternatives[alt3] + self.alternatives[alt4] ) ) *
+					( self.alternatives[alt3] / ( self.alternatives[alt3] + self.alternatives[alt4] ) ) )
 
 			self.profile_probabilities.append((profile, probability))
 
@@ -340,9 +340,9 @@ class State():
 		self.w_stv = list(winner)[0]
 
 
-class Country():
+class Nation():
 	'''
-	A Country object represents the nation as a whole.
+	A Nation object represents the nation as a whole.
 
 	states: list of State objects
 	altElectoralVotes: dictionary to store the number of electoral votes for each candidate
@@ -403,7 +403,7 @@ if __name__ == "__main__":
 			state.stv()
 			states.append(state)
 
-	country = Country(states)
+	country = Nation(states)
 
 	print("PLURALITY SIMULATION")
 	country.calcWinner('Plurality')
