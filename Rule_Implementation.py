@@ -7,17 +7,17 @@ import csv
 All possible preference profiles given A = { Biden (B), Trump (T), Jorgensen (J), Hawkins (H) }
 
 (0) B > T > J > H 		(6) T > B > J > H  		(12) J > B > T > H 		(18) H > B > T > J
-(1) B > T > H > J 		(7) T > B > H > J 		(13) J > B > H > T  	(19) H > B > J > T
+(1) B > T > H > J 		(7) T > B > H > J 		(13) J > B > H > T 		(19) H > B > J > T
 (2) B > J > T > H 		(8) T > J > B > H  		(14) J > T > B > H 		(20) H > T > B > J
-(3) B > J > H > T 		(9) T > J > H > B 		(15) J > T > H > B  	(21) H > T > J > B
+(3) B > J > H > T 		(9) T > J > H > B 		(15) J > T > H > B 		(21) H > T > J > B
 (4) B > H > T > J 		(10) T > H > B > J 		(16) J > H > B > T 		(22) H > J > B > T
 (5) B > H > J > T  		(11) T > H > J > B 		(17) J > H > T > B 		(23) H > J > T > B
 
 '''
 ALL_PROFILES = [('B','T','J','H'),('B','T','H','J'),('B','J','T','H'),('B','J','H','T'),('B','H','T','J'),('B','H','J','T'),
-				('T','B','J','H'),('T','B','H','J'),('T','J','B','H'),('T','J','H','B'),('T','H','B','J'),('T','H','J','B'),
-				('J','B','T','H'),('J','B','H','T'),('J','T','B','H'),('J','T','H','B'),('J','H','B','T'),('J','H','T','B'),
-				('H','B','T','J'),('H','B','J','T'),('H','T','B','J'),('H','T','J','B'),('H','J','B','T'),('H','J','T','B')]
+		('T','B','J','H'),('T','B','H','J'),('T','J','B','H'),('T','J','H','B'),('T','H','B','J'),('T','H','J','B'),
+		('J','B','T','H'),('J','B','H','T'),('J','T','B','H'),('J','T','H','B'),('J','H','B','T'),('J','H','T','B'),
+		('H','B','T','J'),('H','B','J','T'),('H','T','B','J'),('H','T','J','B'),('H','J','B','T'),('H','J','T','B')]
 ALT = {}
 ALT['B'] = 'Biden'
 ALT['T'] = 'Trump'
@@ -30,32 +30,30 @@ class Voter():
 
 	voter_id: unique identifier for an agent within its state
 	state: the state in which an agent votes in
-	preference_profile: array of alternatives that represents an voters preference profile
-						(e.g., [alt1, alt2, alt3] translates to alt1 > alt2 > alt3)
+	preference: array of alternatives that represents an voters preference
+				(e.g., [alt1, alt2, alt3] translates to alt1 > alt2 > alt3)
 
 	'''
 	def __init__(self, voter_id, state):
 		self.voter_id = voter_id
 		self.state = state
-		self.preference_profile = []
+		self.preference = []
 
-	def get_preferences(self):
-		return self.preference_profile
+	def get_preference(self):
+		return self.preference
 
 class State():
 	'''
 	A State object represents a state in the United States with electoral votes.
 
-	name: the name of the state (e.g., "New York")
-	voters: a list of Voter objects that represent all the voters in the state
-	num_voters: number of voters participated in the state
+	name: name of the state (e.g., "New York")
+	num_voters: number of voters that participated in the state
 	electoral_votes: number of electoral votes deligated to the state
 	alternatives: dictionary of candidates where the candidates symbol is the key and the percentage
 					of votes they received in a given state (lambda) is the value
-
-	profile_probabilities: a list to store a profile and the probability of an agent having that profile
-	votes: a list to store profiles and the number of votes with that given profile
-	points: dictionary where candidates are the key values and the number of points they receive
+	profile_probabilities: list to store a possible preference and the probability of an agent having that preference
+	votes: list to store preferences and the number of votes with a given preference
+	points: dictionary where candidates are the key values and the number of points they receive are
 			the values (used to store points when testing various voting rules)
 	'''
 	def __init__(self, name, biden, trump, jorgensen, hawkins, num_voters, electoral_votes):
@@ -68,7 +66,6 @@ class State():
 		self.num_voters = num_voters
 		self.electoral_votes = electoral_votes
 
-		self.voters = []
 		self.profile_probabilities = []
 		self.votes = []
 		self.points = {}
@@ -83,6 +80,9 @@ class State():
 		self.w_stv = None
 
 	def alternativeParameterization(self):
+		'''
+		Generate preference profile distibution for the state using alternative parameterization.
+		'''
 		for profile in ALL_PROFILES:
 			alt1 = profile[0]
 			alt2 = profile[1]
@@ -341,7 +341,12 @@ class State():
 
 
 class Country():
+	'''
+	A Country object represents the nation as a whole.
 
+	states: list of State objects
+	altElectoralVotes: dictionary to store the number of electoral votes for each candidate
+	'''
 	def __init__(self, states):
 		self.states = states
 		self.altElectoralVotes = {}
@@ -408,6 +413,10 @@ if __name__ == "__main__":
 	country.calcWinner('Borda')
 	print()
 	
+	print("COPELAND SIMULATION")
+	country.calcWinner('Copeland')
+	print()
+
 	print("2-APPROVAL SIMULATION")
 	country.calcWinner('2-Approval')
 	print()
