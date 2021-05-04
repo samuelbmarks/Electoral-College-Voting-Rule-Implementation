@@ -1,0 +1,2966 @@
+Plurality: Alabama
+Trump Points: 1457301
+Clinton Points: 806585
+Johnson Points: 49060
+Stein Points: 10327
+Trump wins with Plurality 
+
+Borda: Alabama
+Trump Points: 6050066
+Clinton Points: 5311709
+Johnson Points: 2128102
+Stein Points: 449761
+Trump wins with Borda 
+
+Copeland: Alabama
+Trump Points: 2.5
+Clinton Points: 2.5
+Johnson Points: 1
+Stein Points: 0
+Trump wins with Copeland 
+
+2-Approval: Alabama
+Trump Points: 2270249
+Clinton Points: 2184944
+Johnson Points: 157931
+Stein Points: 33422
+Trump wins with 2-Approval 
+
+Veto: Alabama
+Trump Points: -757
+Clinton Points: -3093
+Johnson Points: -402162
+Stein Points: -1917261
+Trump wins with Veto 
+
+Plurality w/ Runoff: Alabama
+Stein removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: Alabama
+Stein removed after first round
+Johnson removed after second round
+Clinton removed after third round
+Trump wins with STV
+
+Plurality: Alaska
+Trump Points: 193031
+Clinton Points: 137583
+Johnson Points: 22131
+Stein Points: 6772
+Trump wins with Plurality 
+
+Borda: Alaska
+Trump Points: 879778
+Clinton Points: 801958
+Johnson Points: 362053
+Stein Points: 113313
+Trump wins with Borda 
+
+Copeland: Alaska
+Trump Points: 2.5
+Clinton Points: 2.5
+Johnson Points: 1
+Stein Points: 0
+Trump wins with Copeland 
+
+2-Approval: Alaska
+Trump Points: 329064
+Clinton Points: 308764
+Johnson Points: 61936
+Stein Points: 19270
+Trump wins with 2-Approval 
+
+Veto: Alaska
+Trump Points: -1834
+Clinton Points: -3906
+Johnson Points: -81531
+Stein Points: -272246
+Trump wins with Veto 
+
+Plurality w/ Runoff: Alaska
+Stein removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: Alaska
+Stein removed after first round
+Johnson removed after second round
+Clinton removed after third round
+Trump wins with STV
+
+Plurality: Arizona
+Trump Points: 1660844
+Clinton Points: 1539943
+Johnson Points: 140934
+Stein Points: 45594
+Trump wins with Plurality 
+
+Borda: Arizona
+Trump Points: 8176800
+Clinton Points: 8022894
+Johnson Points: 3108274
+Stein Points: 1015922
+Trump wins with Borda 
+
+Copeland: Arizona
+Trump Points: 2.5
+Clinton Points: 2.5
+Johnson Points: 1
+Stein Points: 0
+Trump wins with Copeland 
+
+2-Approval: Arizona
+Trump Points: 3140059
+Clinton Points: 3109209
+Johnson Points: 395917
+Stein Points: 129445
+Trump wins with 2-Approval 
+
+Veto: Arizona
+Trump Points: -11418
+Clinton Points: -13573
+Johnson Points: -815892
+Stein Points: -2546432
+Trump wins with Veto 
+
+Plurality w/ Runoff: Arizona
+Stein removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: Arizona
+Stein removed after first round
+Johnson removed after second round
+Clinton removed after third round
+Trump wins with STV
+
+Plurality: Arkansas
+Trump Points: 755769
+Clinton Points: 419870
+Johnson Points: 32939
+Stein Points: 10479
+Trump wins with Plurality 
+
+Borda: Arkansas
+Trump Points: 3154216
+Clinton Points: 2755127
+Johnson Points: 1064393
+Stein Points: 340606
+Trump wins with Borda 
+
+Copeland: Arkansas
+Trump Points: 2.5
+Clinton Points: 2.5
+Johnson Points: 1
+Stein Points: 0
+Trump wins with Copeland 
+
+2-Approval: Arkansas
+Trump Points: 1180371
+Clinton Points: 1120108
+Johnson Points: 104264
+Stein Points: 33371
+Trump wins with 2-Approval 
+
+Veto: Arkansas
+Trump Points: -981
+Clinton Points: -3908
+Johnson Points: -291867
+Stein Points: -922301
+Trump wins with Veto 
+
+Plurality w/ Runoff: Arkansas
+Stein removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: Arkansas
+Stein removed after first round
+Johnson removed after second round
+Clinton removed after third round
+Trump wins with STV
+
+Plurality: California
+Clinton Points: 10947802
+Trump Points: 5607798
+Johnson Points: 597666
+Stein Points: 347603
+Clinton wins with Plurality 
+
+Borda: California
+Clinton Points: 45130103
+Trump Points: 38222672
+Johnson Points: 13656794
+Stein Points: 7995645
+Clinton wins with Borda 
+
+Copeland: California
+Clinton Points: 3
+Trump Points: 2
+Johnson Points: 1
+Stein Points: 0
+Clinton wins with Copeland 
+
+2-Approval: California
+Clinton Points: 16718836
+Trump Points: 15288312
+Johnson Points: 1890074
+Stein Points: 1104516
+Clinton wins with 2-Approval 
+
+Veto: California
+Clinton Points: -37404
+Trump Points: -174307
+Johnson Points: -6331815
+Stein Points: -10957343
+Clinton wins with Veto 
+
+Plurality w/ Runoff: California
+Stein removed after first round
+Clinton wins with Plurality w/ Runoff
+
+STV: California
+Stein removed after first round
+Johnson removed after second round
+Trump removed after third round
+Clinton wins with STV
+
+Plurality: Colorado
+Clinton Points: 1601061
+Trump Points: 1437829
+Johnson Points: 172203
+Stein Points: 45875
+Clinton wins with Plurality 
+
+Borda: Colorado
+Clinton Points: 7822885
+Trump Points: 7605888
+Johnson Points: 3236459
+Stein Points: 876576
+Clinton wins with Borda 
+
+Copeland: Colorado
+Clinton Points: 3
+Trump Points: 2
+Johnson Points: 1
+Stein Points: 0
+Clinton wins with Copeland 
+
+2-Approval: Colorado
+Clinton Points: 2978772
+Trump Points: 2928837
+Johnson Points: 477275
+Stein Points: 129052
+Clinton wins with 2-Approval 
+
+Veto: Colorado
+Clinton Points: -13916
+Trump Points: -17746
+Johnson Points: -669987
+Stein Points: -2555319
+Clinton wins with Veto 
+
+Plurality w/ Runoff: Colorado
+Stein removed after first round
+Clinton wins with Plurality w/ Runoff
+
+STV: Colorado
+Stein removed after first round
+Johnson removed after second round
+Trump removed after third round
+Clinton wins with STV
+
+Plurality: Connecticut
+Clinton Points: 996771
+Trump Points: 747624
+Johnson Points: 54065
+Stein Points: 25388
+Clinton wins with Plurality 
+
+Borda: Connecticut
+Clinton Points: 4550733
+Trump Points: 4246472
+Johnson Points: 1457891
+Stein Points: 687992
+Clinton wins with Borda 
+
+Copeland: Connecticut
+Clinton Points: 3
+Trump Points: 2
+Johnson Points: 1
+Stein Points: 0
+Clinton wins with Copeland 
+
+2-Approval: Connecticut
+Clinton Points: 1733722
+Trump Points: 1682031
+Johnson Points: 157545
+Stein Points: 74398
+Clinton wins with 2-Approval 
+
+Veto: Connecticut
+Clinton Points: -3608
+Trump Points: -7031
+Johnson Points: -577567
+Stein Points: -1235642
+Clinton wins with Veto 
+
+Plurality w/ Runoff: Connecticut
+Stein removed after first round
+Clinton wins with Plurality w/ Runoff
+
+STV: Connecticut
+Stein removed after first round
+Johnson removed after second round
+Trump removed after third round
+Clinton wins with STV
+
+Plurality: Delaware
+Clinton Points: 269101
+Trump Points: 211467
+Johnson Points: 16826
+Stein Points: 6941
+Clinton wins with Plurality 
+
+Borda: Delaware
+Clinton Points: 1248721
+Trump Points: 1177394
+Johnson Points: 423865
+Stein Points: 176030
+Clinton wins with Borda 
+
+Copeland: Delaware
+Clinton Points: 3
+Trump Points: 2
+Johnson Points: 1
+Stein Points: 0
+Clinton wins with Copeland 
+
+2-Approval: Delaware
+Clinton Points: 476449
+Trump Points: 463625
+Johnson Points: 48460
+Stein Points: 20136
+Clinton wins with 2-Approval 
+
+Veto: Delaware
+Clinton Points: -1164
+Trump Points: -2033
+Johnson Points: -145756
+Stein Points: -355382
+Clinton wins with Veto 
+
+Plurality w/ Runoff: Delaware
+Stein removed after first round
+Clinton wins with Plurality w/ Runoff
+
+STV: Delaware
+Stein removed after first round
+Johnson removed after second round
+Trump removed after third round
+Clinton wins with STV
+
+Plurality: Washington D.C.
+Clinton Points: 319625
+Trump Points: 14375
+Johnson Points: 5543
+Stein Points: 4801
+Clinton wins with Plurality 
+
+Borda: Washington D.C.
+Clinton Points: 1007254
+Trump Points: 521411
+Johnson Points: 286233
+Stein Points: 251166
+Clinton wins with Borda 
+
+Copeland: Washington D.C.
+Clinton Points: 3
+Trump Points: 2
+Johnson Points: 1
+Stein Points: 0
+Clinton wins with Copeland 
+
+2-Approval: Washington D.C.
+Clinton Points: 343303
+Trump Points: 200651
+Johnson Points: 77549
+Stein Points: 67185
+Clinton wins with 2-Approval 
+
+Veto: Washington D.C.
+Clinton Points: -18
+Trump Points: -37959
+Johnson Points: -141203
+Stein Points: -165164
+Clinton wins with Veto 
+
+Plurality w/ Runoff: Washington D.C.
+Stein removed after first round
+Clinton wins with Plurality w/ Runoff
+
+STV: Washington D.C.
+Stein removed after first round
+Johnson removed after second round
+Trump removed after third round
+Clinton wins with STV
+
+Plurality: Florida
+Trump Points: 5440496
+Clinton Points: 5307315
+Johnson Points: 244165
+Stein Points: 75467
+Trump wins with Plurality 
+
+Borda: Florida
+Trump Points: 27110395
+Clinton Points: 26958106
+Johnson Points: 9416429
+Stein Points: 2919728
+Trump wins with Borda 
+
+Copeland: Florida
+Trump Points: 2.5
+Clinton Points: 2.5
+Johnson Points: 1
+Stein Points: 0
+Trump wins with Copeland 
+
+2-Approval: Florida
+Trump Points: 10613390
+Clinton Points: 10594937
+Johnson Points: 706887
+Stein Points: 219672
+Trump wins with 2-Approval 
+
+Veto: Florida
+Trump Points: -10934
+Clinton Points: -11589
+Johnson Points: -2602066
+Stein Points: -8442854
+Trump wins with Veto 
+
+Plurality w/ Runoff: Florida
+Stein removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: Florida
+Stein removed after first round
+Johnson removed after second round
+Clinton removed after third round
+Trump wins with STV
+
+Plurality: Georgia
+Trump Points: 2547392
+Clinton Points: 2289995
+Johnson Points: 153031
+Stein Points: 9529
+Trump wins with Plurality 
+
+Borda: Georgia
+Trump Points: 12330913
+Clinton Points: 12032927
+Johnson Points: 5303285
+Stein Points: 332557
+Trump wins with Borda 
+
+Copeland: Georgia
+Trump Points: 2.5
+Clinton Points: 2.5
+Johnson Points: 1
+Stein Points: 0
+Trump wins with Copeland 
+
+2-Approval: Georgia
+Trump Points: 4785308
+Clinton Points: 4745211
+Johnson Points: 441590
+Stein Points: 27785
+Trump wins with 2-Approval 
+
+Veto: Georgia
+Trump Points: -1734
+Clinton Points: -2226
+Johnson Points: -291283
+Stein Points: -4704704
+Trump wins with Veto 
+
+Plurality w/ Runoff: Georgia
+Stein removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: Georgia
+Stein removed after first round
+Johnson removed after second round
+Clinton removed after third round
+Trump wins with STV
+
+Plurality: Hawaii
+Clinton Points: 361260
+Trump Points: 174357
+Johnson Points: 21597
+Stein Points: 17241
+Clinton wins with Plurality 
+
+Borda: Hawaii
+Clinton Points: 1477799
+Trump Points: 1220900
+Johnson Points: 415144
+Stein Points: 332887
+Clinton wins with Borda 
+
+Copeland: Hawaii
+Clinton Points: 3
+Trump Points: 2
+Johnson Points: 1
+Stein Points: 0
+Clinton wins with Copeland 
+
+2-Approval: Hawaii
+Clinton Points: 543985
+Trump Points: 482007
+Johnson Points: 68272
+Stein Points: 54646
+Clinton wins with 2-Approval 
+
+Veto: Hawaii
+Clinton Points: -1901
+Trump Points: -9919
+Johnson Points: -249180
+Stein Points: -313455
+Clinton wins with Veto 
+
+Plurality w/ Runoff: Hawaii
+Stein removed after first round
+Clinton wins with Plurality w/ Runoff
+
+STV: Hawaii
+Stein removed after first round
+Johnson removed after second round
+Trump removed after third round
+Clinton wins with STV
+
+Plurality: Idaho
+Trump Points: 558626
+Clinton Points: 259138
+Johnson Points: 38647
+Stein Points: 11592
+Trump wins with Plurality 
+
+Borda: Idaho
+Trump Points: 2255143
+Clinton Points: 1861242
+Johnson Points: 836514
+Stein Points: 255119
+Trump wins with Borda 
+
+Copeland: Idaho
+Trump Points: 2.5
+Clinton Points: 2.5
+Johnson Points: 1
+Stein Points: 0
+Trump wins with Copeland 
+
+2-Approval: Idaho
+Trump Points: 829975
+Clinton Points: 742627
+Johnson Points: 125403
+Stein Points: 38001
+Trump wins with 2-Approval 
+
+Veto: Idaho
+Trump Points: -1461
+Clinton Points: -8526
+Johnson Points: -195539
+Stein Points: -662477
+Trump wins with Veto 
+
+Plurality w/ Runoff: Idaho
+Stein removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: Idaho
+Stein removed after first round
+Johnson removed after second round
+Clinton removed after third round
+Trump wins with STV
+
+Plurality: Illinois
+Clinton Points: 3376402
+Trump Points: 2344068
+Johnson Points: 229203
+Stein Points: 84060
+Clinton wins with Plurality 
+
+Borda: Illinois
+Clinton Points: 15098643
+Trump Points: 13793584
+Johnson Points: 5335631
+Stein Points: 1974540
+Clinton wins with Borda 
+
+Copeland: Illinois
+Clinton Points: 3
+Trump Points: 2
+Johnson Points: 1
+Stein Points: 0
+Clinton wins with Copeland 
+
+2-Approval: Illinois
+Clinton Points: 5702479
+Trump Points: 5448112
+Johnson Points: 669284
+Stein Points: 247591
+Clinton wins with 2-Approval 
+
+Veto: Illinois
+Clinton Points: -13971
+Trump Points: -32329
+Johnson Points: -1596589
+Stein Points: -4390844
+Clinton wins with Veto 
+
+Plurality w/ Runoff: Illinois
+Stein removed after first round
+Clinton wins with Plurality w/ Runoff
+
+STV: Illinois
+Stein removed after first round
+Johnson removed after second round
+Trump removed after third round
+Clinton wins with STV
+
+Plurality: Indiana
+Trump Points: 1725315
+Clinton Points: 1151119
+Johnson Points: 148481
+Stein Points: 8196
+Trump wins with Plurality 
+
+Borda: Indiana
+Trump Points: 7630829
+Clinton Points: 6912059
+Johnson Points: 3461288
+Stein Points: 194490
+Trump wins with Borda 
+
+Copeland: Indiana
+Trump Points: 2.5
+Clinton Points: 2.5
+Johnson Points: 1
+Stein Points: 0
+Trump wins with Copeland 
+
+2-Approval: Indiana
+Trump Points: 2874085
+Clinton Points: 2732105
+Johnson Points: 435586
+Stein Points: 24446
+Trump wins with 2-Approval 
+
+Veto: Indiana
+Trump Points: -1682
+Clinton Points: -4276
+Johnson Points: -155890
+Stein Points: -2871263
+Trump wins with Veto 
+
+Plurality w/ Runoff: Indiana
+Stein removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: Indiana
+Stein removed after first round
+Johnson removed after second round
+Clinton removed after third round
+Trump wins with STV
+
+Plurality: Iowa
+Trump Points: 887964
+Clinton Points: 724606
+Johnson Points: 65618
+Stein Points: 12669
+Trump wins with Plurality 
+
+Borda: Iowa
+Trump Points: 4172653
+Clinton Points: 3972039
+Johnson Points: 1673929
+Stein Points: 326521
+Trump wins with Borda 
+
+Copeland: Iowa
+Trump Points: 2.5
+Clinton Points: 2.5
+Johnson Points: 1
+Stein Points: 0
+Trump wins with Copeland 
+
+2-Approval: Iowa
+Trump Points: 1596415
+Clinton Points: 1560711
+Johnson Points: 187893
+Stein Points: 36695
+Trump wins with 2-Approval 
+
+Veto: Iowa
+Trump Points: -2583
+Clinton Points: -4135
+Johnson Points: -270439
+Stein Points: -1413700
+Trump wins with Veto 
+
+Plurality w/ Runoff: Iowa
+Stein removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: Iowa
+Stein removed after first round
+Johnson removed after second round
+Clinton removed after third round
+Trump wins with STV
+
+Plurality: Kansas
+Trump Points: 782414
+Clinton Points: 497899
+Johnson Points: 64635
+Stein Points: 27344
+Trump wins with Plurality 
+
+Borda: Kansas
+Trump Points: 3432156
+Clinton Points: 3049134
+Johnson Points: 1226704
+Stein Points: 525758
+Trump wins with Borda 
+
+Copeland: Kansas
+Trump Points: 2.5
+Clinton Points: 2.5
+Johnson Points: 1
+Stein Points: 0
+Trump wins with Copeland 
+
+2-Approval: Kansas
+Trump Points: 1282519
+Clinton Points: 1193042
+Johnson Points: 188486
+Stein Points: 80537
+Trump wins with 2-Approval 
+
+Veto: Kansas
+Trump Points: -5069
+Clinton Points: -14099
+Johnson Points: -398709
+Stein Points: -954415
+Trump wins with Veto 
+
+Plurality w/ Runoff: Kansas
+Stein removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: Kansas
+Stein removed after first round
+Johnson removed after second round
+Clinton removed after third round
+Trump wins with STV
+
+Plurality: Kentucky
+Trump Points: 1353364
+Clinton Points: 707419
+Johnson Points: 60392
+Stein Points: 15583
+Trump wins with Plurality 
+
+Borda: Kentucky
+Trump Points: 5561177
+Clinton Points: 4792890
+Johnson Points: 1957797
+Stein Points: 508684
+Trump wins with Borda 
+
+Copeland: Kentucky
+Trump Points: 2.5
+Clinton Points: 2.5
+Johnson Points: 1
+Stein Points: 0
+Trump wins with Copeland 
+
+2-Approval: Kentucky
+Trump Points: 2072487
+Clinton Points: 1955297
+Johnson Points: 195060
+Stein Points: 50672
+Trump wins with 2-Approval 
+
+Veto: Kentucky
+Trump Points: -1432
+Clinton Points: -6584
+Johnson Points: -434413
+Stein Points: -1694329
+Trump wins with Veto 
+
+Plurality w/ Runoff: Kentucky
+Stein removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: Kentucky
+Stein removed after first round
+Johnson removed after second round
+Clinton removed after third round
+Trump wins with STV
+
+Plurality: Louisiana
+Trump Points: 1259138
+Clinton Points: 833428
+Johnson Points: 40531
+Stein Points: 14954
+Trump wins with Plurality 
+
+Borda: Louisiana
+Trump Points: 5496427
+Clinton Points: 5014146
+Johnson Points: 1735695
+Stein Points: 642038
+Trump wins with Borda 
+
+Copeland: Louisiana
+Trump Points: 2.5
+Clinton Points: 2.5
+Johnson Points: 1
+Stein Points: 0
+Trump wins with Copeland 
+
+2-Approval: Louisiana
+Trump Points: 2090431
+Clinton Points: 2035840
+Johnson Points: 123925
+Stein Points: 45906
+Trump wins with 2-Approval 
+
+Veto: Louisiana
+Trump Points: -1193
+Clinton Points: -3173
+Johnson Points: -576812
+Stein Points: -1566873
+Trump wins with Veto 
+
+Plurality w/ Runoff: Louisiana
+Stein removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: Louisiana
+Stein removed after first round
+Johnson removed after second round
+Clinton removed after third round
+Trump wins with STV
+
+Plurality: Maine
+Clinton Points: 393125
+Trump Points: 368795
+Johnson Points: 41832
+Stein Points: 15696
+Clinton wins with Plurality 
+
+Borda: Maine
+Clinton Points: 1951434
+Trump Points: 1918603
+Johnson Points: 758149
+Stein Points: 288502
+Clinton wins with Borda 
+
+Copeland: Maine
+Clinton Points: 3
+Trump Points: 2
+Johnson Points: 1
+Stein Points: 0
+Clinton wins with Copeland 
+
+2-Approval: Maine
+Clinton Points: 743666
+Trump Points: 735910
+Johnson Points: 115460
+Stein Points: 43860
+Clinton wins with 2-Approval 
+
+Veto: Maine
+Clinton Points: -4805
+Trump Points: -5550
+Johnson Points: -218591
+Stein Points: -590502
+Clinton wins with Veto 
+
+Plurality w/ Runoff: Maine
+Stein removed after first round
+Clinton wins with Plurality w/ Runoff
+
+STV: Maine
+Stein removed after first round
+Johnson removed after second round
+Trump removed after third round
+Clinton wins with STV
+
+Plurality: Maine1
+Clinton Points: 239724
+Trump Points: 173928
+Johnson Points: 20923
+Stein Points: 8528
+Clinton wins with Plurality 
+
+Borda: Maine1
+Clinton Points: 1092209
+Trump Points: 1004225
+Johnson Points: 397934
+Stein Points: 164250
+Clinton wins with Borda 
+
+Copeland: Maine1
+Clinton Points: 3
+Trump Points: 2
+Johnson Points: 1
+Stein Points: 0
+Clinton wins with Copeland 
+
+2-Approval: Maine1
+Clinton Points: 411207
+Trump Points: 390969
+Johnson Points: 59516
+Stein Points: 24514
+Clinton wins with 2-Approval 
+
+Veto: Maine1
+Clinton Points: -1825
+Trump Points: -3775
+Johnson Points: -125608
+Stein Points: -311895
+Clinton wins with Veto 
+
+Plurality w/ Runoff: Maine1
+Stein removed after first round
+Clinton wins with Plurality w/ Runoff
+
+STV: Maine1
+Stein removed after first round
+Johnson removed after second round
+Trump removed after third round
+Clinton wins with STV
+
+Plurality: Maine2
+Trump Points: 193590
+Clinton Points: 154766
+Johnson Points: 20844
+Stein Points: 7135
+Trump wins with Plurality 
+
+Borda: Maine2
+Trump Points: 911853
+Clinton Points: 858611
+Johnson Points: 361600
+Stein Points: 125946
+Trump wins with Borda 
+
+Copeland: Maine2
+Trump Points: 2.5
+Clinton Points: 2.5
+Johnson Points: 1
+Stein Points: 0
+Trump wins with Copeland 
+
+2-Approval: Maine2
+Trump Points: 343905
+Clinton Points: 330779
+Johnson Points: 57889
+Stein Points: 20097
+Trump wins with 2-Approval 
+
+Veto: Maine2
+Trump Points: -1977
+Clinton Points: -3269
+Johnson Points: -93468
+Stein Points: -277621
+Trump wins with Veto 
+
+Plurality w/ Runoff: Maine2
+Stein removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: Maine2
+Stein removed after first round
+Johnson removed after second round
+Clinton removed after third round
+Trump wins with STV
+
+Plurality: Maryland
+Clinton Points: 1862219
+Trump Points: 1046704
+Johnson Points: 88278
+Stein Points: 39816
+Clinton wins with Plurality 
+
+Borda: Maryland
+Clinton Points: 7817232
+Trump Points: 6819316
+Johnson Points: 2466652
+Stein Points: 1118902
+Clinton wins with Borda 
+
+Copeland: Maryland
+Clinton Points: 3
+Trump Points: 2
+Johnson Points: 1
+Stein Points: 0
+Clinton wins with Copeland 
+
+2-Approval: Maryland
+Clinton Points: 2922049
+Trump Points: 2751112
+Johnson Points: 275810
+Stein Points: 125063
+Clinton wins with 2-Approval 
+
+Veto: Maryland
+Clinton Points: -4053
+Trump Points: -15517
+Johnson Points: -934453
+Stein Points: -2082994
+Clinton wins with Veto 
+
+Plurality w/ Runoff: Maryland
+Stein removed after first round
+Clinton wins with Plurality w/ Runoff
+
+STV: Maryland
+Stein removed after first round
+Johnson removed after second round
+Trump removed after third round
+Clinton wins with STV
+
+Plurality: Massachusetts
+Clinton Points: 2214637
+Trump Points: 1210834
+Johnson Points: 153150
+Stein Points: 52771
+Clinton wins with Plurality 
+
+Borda: Massachusetts
+Clinton Points: 9291159
+Trump Points: 7987008
+Johnson Points: 3343389
+Stein Points: 1166796
+Clinton wins with Borda 
+
+Copeland: Massachusetts
+Clinton Points: 3
+Trump Points: 2
+Johnson Points: 1
+Stein Points: 0
+Clinton wins with Copeland 
+
+2-Approval: Massachusetts
+Clinton Points: 3452633
+Trump Points: 3174743
+Johnson Points: 471423
+Stein Points: 163985
+Clinton wins with 2-Approval 
+
+Veto: Massachusetts
+Clinton Points: -7503
+Trump Points: -29961
+Johnson Points: -912576
+Stein Points: -2681352
+Clinton wins with Veto 
+
+Plurality w/ Runoff: Massachusetts
+Stein removed after first round
+Clinton wins with Plurality w/ Runoff
+
+STV: Massachusetts
+Stein removed after first round
+Johnson removed after second round
+Trump removed after third round
+Clinton wins with STV
+
+Plurality: Michigan
+Trump Points: 2646249
+Clinton Points: 2633435
+Johnson Points: 199998
+Stein Points: 59608
+Trump wins with Plurality 
+
+Borda: Michigan
+Trump Points: 13343690
+Clinton Points: 13327905
+Johnson Points: 5047618
+Stein Points: 1516527
+Trump wins with Borda 
+
+Copeland: Michigan
+Trump Points: 2.5
+Clinton Points: 2.5
+Johnson Points: 1
+Stein Points: 0
+Trump wins with Copeland 
+
+2-Approval: Michigan
+Trump Points: 5172323
+Clinton Points: 5169511
+Johnson Points: 566361
+Stein Points: 170385
+Trump wins with 2-Approval 
+
+Veto: Michigan
+Trump Points: -14172
+Clinton Points: -14331
+Johnson Points: -1258031
+Stein Points: -4252756
+Trump wins with Veto 
+
+Plurality w/ Runoff: Michigan
+Stein removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: Michigan
+Stein removed after first round
+Johnson removed after second round
+Clinton removed after third round
+Trump wins with STV
+
+Plurality: Minnesota
+Clinton Points: 1577767
+Trump Points: 1526127
+Johnson Points: 130459
+Stein Points: 42804
+Clinton wins with Plurality 
+
+Borda: Minnesota
+Clinton Points: 7883315
+Trump Points: 7818143
+Johnson Points: 2975870
+Stein Points: 985614
+Clinton wins with Borda 
+
+Copeland: Minnesota
+Clinton Points: 3
+Trump Points: 2
+Johnson Points: 1
+Stein Points: 0
+Clinton wins with Copeland 
+
+2-Approval: Minnesota
+Clinton Points: 3039176
+Trump Points: 3026499
+Johnson Points: 367011
+Stein Points: 121628
+Clinton wins with 2-Approval 
+
+Veto: Minnesota
+Clinton Points: -10785
+Trump Points: -11640
+Johnson Points: -798757
+Stein Points: -2455975
+Clinton wins with Veto 
+
+Plurality w/ Runoff: Minnesota
+Stein removed after first round
+Clinton wins with Plurality w/ Runoff
+
+STV: Minnesota
+Stein removed after first round
+Johnson removed after second round
+Trump removed after third round
+Clinton wins with STV
+
+Plurality: Mississippi
+Trump Points: 764630
+Clinton Points: 529328
+Johnson Points: 15701
+Stein Points: 4088
+Trump wins with Plurality 
+
+Borda: Mississippi
+Trump Points: 3370397
+Clinton Points: 3117001
+Johnson Points: 1106522
+Stein Points: 288562
+Trump wins with Borda 
+
+Copeland: Mississippi
+Trump Points: 2.5
+Clinton Points: 2.5
+Johnson Points: 1
+Stein Points: 0
+Trump wins with Copeland 
+
+2-Approval: Mississippi
+Trump Points: 1292238
+Clinton Points: 1274452
+Johnson Points: 48211
+Stein Points: 12593
+Trump wins with 2-Approval 
+
+Veto: Mississippi
+Trump Points: -218
+Clinton Points: -526
+Johnson Points: -271137
+Stein Points: -1041866
+Trump wins with Veto 
+
+Plurality w/ Runoff: Mississippi
+Stein removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: Mississippi
+Stein removed after first round
+Johnson removed after second round
+Clinton removed after third round
+Trump wins with STV
+
+Plurality: Missouri
+Trump Points: 1730119
+Clinton Points: 1162353
+Johnson Points: 105750
+Stein Points: 27731
+Trump wins with Plurality 
+
+Borda: Missouri
+Trump Points: 7639830
+Clinton Points: 6945048
+Johnson Points: 2823918
+Stein Points: 746922
+Trump wins with Borda 
+
+Copeland: Missouri
+Trump Points: 2.5
+Clinton Points: 2.5
+Johnson Points: 1
+Stein Points: 0
+Trump wins with Copeland 
+
+2-Approval: Missouri
+Trump Points: 2887873
+Clinton Points: 2767098
+Johnson Points: 313878
+Stein Points: 83057
+Trump wins with 2-Approval 
+
+Veto: Missouri
+Trump Points: -4115
+Clinton Points: -10356
+Johnson Points: -621663
+Stein Points: -2389819
+Trump wins with Veto 
+
+Plurality w/ Runoff: Missouri
+Stein removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: Missouri
+Stein removed after first round
+Johnson removed after second round
+Clinton removed after third round
+Trump wins with STV
+
+Plurality: Montana
+Trump Points: 341953
+Clinton Points: 217638
+Johnson Points: 34332
+Stein Points: 9738
+Trump wins with Plurality 
+
+Borda: Montana
+Trump Points: 1504414
+Clinton Points: 1333991
+Johnson Points: 607590
+Stein Points: 175971
+Trump wins with Borda 
+
+Copeland: Montana
+Trump Points: 2.5
+Clinton Points: 2.5
+Johnson Points: 1
+Stein Points: 0
+Trump wins with Copeland 
+
+2-Approval: Montana
+Trump Points: 560972
+Clinton Points: 518696
+Johnson Points: 99113
+Stein Points: 28541
+Trump wins with 2-Approval 
+
+Veto: Montana
+Trump Points: -2172
+Clinton Points: -6004
+Johnson Points: -129516
+Stein Points: -465969
+Trump wins with Veto 
+
+Plurality w/ Runoff: Montana
+Stein removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: Montana
+Stein removed after first round
+Johnson removed after second round
+Clinton removed after third round
+Trump wins with STV
+
+Plurality: Nebraska
+Trump Points: 572754
+Clinton Points: 328541
+Johnson Points: 44940
+Stein Points: 10137
+Trump wins with Plurality 
+
+Borda: Nebraska
+Trump Points: 2434287
+Clinton Points: 2117656
+Johnson Points: 964994
+Stein Points: 221295
+Trump wins with Borda 
+
+Copeland: Nebraska
+Trump Points: 2.5
+Clinton Points: 2.5
+Johnson Points: 1
+Stein Points: 0
+Trump wins with Copeland 
+
+2-Approval: Nebraska
+Trump Points: 906850
+Clinton Points: 838778
+Johnson Points: 136038
+Stein Points: 31078
+Trump wins with 2-Approval 
+
+Veto: Nebraska
+Trump Points: -1689
+Clinton Points: -6035
+Johnson Points: -172356
+Stein Points: -776292
+Trump wins with Veto 
+
+Plurality w/ Runoff: Nebraska
+Stein removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: Nebraska
+Stein removed after first round
+Johnson removed after second round
+Clinton removed after third round
+Trump wins with STV
+
+Plurality: Nebraska1
+Trump Points: 184900
+Clinton Points: 116705
+Johnson Points: 16355
+Stein Points: 3912
+Trump wins with Plurality 
+
+Borda: Nebraska1
+Trump Points: 808246
+Clinton Points: 718285
+Johnson Points: 325414
+Stein Points: 79287
+Trump wins with Borda 
+
+Copeland: Nebraska1
+Trump Points: 2.5
+Clinton Points: 2.5
+Johnson Points: 1
+Stein Points: 0
+Trump wins with Copeland 
+
+2-Approval: Nebraska1
+Trump Points: 302250
+Clinton Points: 281924
+Johnson Points: 47937
+Stein Points: 11633
+Trump wins with 2-Approval 
+
+Veto: Nebraska1
+Trump Points: -776
+Clinton Points: -2216
+Johnson Points: -60750
+Stein Points: -258130
+Trump wins with Veto 
+
+Plurality w/ Runoff: Nebraska1
+Stein removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: Nebraska1
+Stein removed after first round
+Johnson removed after second round
+Clinton removed after third round
+Trump wins with STV
+
+Plurality: Nebraska2
+Trump Points: 163837
+Clinton Points: 156055
+Johnson Points: 15769
+Stein Points: 3993
+Trump wins with Plurality 
+
+Borda: Nebraska2
+Trump Points: 815365
+Clinton Points: 805359
+Johnson Points: 332003
+Stein Points: 85197
+Trump wins with Borda 
+
+Copeland: Nebraska2
+Trump Points: 2.5
+Clinton Points: 2.5
+Johnson Points: 1
+Stein Points: 0
+Trump wins with Copeland 
+
+2-Approval: Nebraska2
+Trump Points: 313019
+Clinton Points: 310929
+Johnson Points: 44057
+Stein Points: 11303
+Trump wins with 2-Approval 
+
+Veto: Nebraska2
+Trump Points: -1145
+Clinton Points: -1279
+Johnson Points: -67477
+Stein Points: -269753
+Trump wins with Veto 
+
+Plurality w/ Runoff: Nebraska2
+Stein removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: Nebraska2
+Stein removed after first round
+Johnson removed after second round
+Clinton removed after third round
+Trump wins with STV
+
+Plurality: Nebraska3
+Trump Points: 220739
+Clinton Points: 58915
+Johnson Points: 12897
+Stein Points: 2266
+Trump wins with Plurality 
+
+Borda: Nebraska3
+Trump Points: 803077
+Clinton Points: 587862
+Johnson Points: 319940
+Stein Points: 58023
+Trump wins with Borda 
+
+Copeland: Nebraska3
+Trump Points: 2.5
+Clinton Points: 2.5
+Johnson Points: 1
+Stein Points: 0
+Trump wins with Copeland 
+
+2-Approval: Nebraska3
+Trump Points: 287678
+Clinton Points: 237609
+Johnson Points: 54652
+Stein Points: 9695
+Trump wins with 2-Approval 
+
+Veto: Nebraska3
+Trump Points: -157
+Clinton Points: -3479
+Johnson Points: -42426
+Stein Points: -248755
+Trump wins with Veto 
+
+Plurality w/ Runoff: Nebraska3
+Stein removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: Nebraska3
+Stein removed after first round
+Johnson removed after second round
+Clinton removed after third round
+Trump wins with STV
+
+Plurality: Nevada
+Clinton Points: 696366
+Trump Points: 661198
+Johnson Points: 47809
+Stein Points: 0
+Clinton wins with Plurality 
+
+Borda: Nevada
+Clinton Points: 3441349
+Trump Points: 3400463
+Johnson Points: 1590426
+Stein Points: 0
+Clinton wins with Borda 
+
+Copeland: Nevada
+Clinton Points: 3
+Trump Points: 2
+Johnson Points: 1
+Stein Points: 0
+Clinton wins with Copeland 
+
+2-Approval: Nevada
+Clinton Points: 1339610
+Trump Points: 1333892
+Johnson Points: 137244
+Stein Points: 0
+Clinton wins with 2-Approval 
+
+Veto: Nevada
+Clinton Points: 0
+Trump Points: 0
+Johnson Points: 0
+Stein Points: -1405373
+Clinton wins with Veto 
+
+Plurality w/ Runoff: Nevada
+Stein removed after first round
+Clinton wins with Plurality w/ Runoff
+
+STV: Nevada
+Stein removed after first round
+Johnson removed after second round
+Trump removed after third round
+Clinton wins with STV
+
+Plurality: New Hampshire
+Clinton Points: 384052
+Trump Points: 381028
+Johnson Points: 33922
+Stein Points: 7192
+Clinton wins with Plurality 
+
+Borda: New Hampshire
+Clinton Points: 1936828
+Trump Points: 1933051
+Johnson Points: 796491
+Stein Points: 170794
+Clinton wins with Borda 
+
+Copeland: New Hampshire
+Clinton Points: 3
+Trump Points: 2
+Johnson Points: 1
+Stein Points: 0
+Clinton wins with Copeland 
+
+2-Approval: New Hampshire
+Clinton Points: 748558
+Trump Points: 747840
+Johnson Points: 95493
+Stein Points: 20497
+Clinton wins with 2-Approval 
+
+Veto: New Hampshire
+Clinton Points: -1976
+Trump Points: -2011
+Johnson Points: -139118
+Stein Points: -663089
+Clinton wins with Veto 
+
+Plurality w/ Runoff: New Hampshire
+Stein removed after first round
+Clinton wins with Plurality w/ Runoff
+
+STV: New Hampshire
+Stein removed after first round
+Johnson removed after second round
+Trump removed after third round
+Clinton wins with STV
+
+Plurality: New Jersey
+Clinton Points: 2531473
+Trump Points: 1887762
+Johnson Points: 85368
+Stein Points: 44737
+Clinton wins with Plurality 
+
+Borda: New Jersey
+Clinton Points: 11477270
+Trump Points: 10739870
+Johnson Points: 3330248
+Stein Points: 1748652
+Clinton wins with Borda 
+
+Copeland: New Jersey
+Clinton Points: 3
+Trump Points: 2
+Johnson Points: 1
+Stein Points: 0
+Clinton wins with Copeland 
+
+2-Approval: New Jersey
+Clinton Points: 4400507
+Trump Points: 4310857
+Johnson Points: 253865
+Stein Points: 133451
+Clinton wins with 2-Approval 
+
+Veto: New Jersey
+Clinton Points: -4050
+Trump Points: -8089
+Johnson Points: -1558325
+Stein Points: -2978876
+Clinton wins with Veto 
+
+Plurality w/ Runoff: New Jersey
+Stein removed after first round
+Clinton wins with Plurality w/ Runoff
+
+STV: New Jersey
+Stein removed after first round
+Johnson removed after second round
+Trump removed after third round
+Clinton wins with STV
+
+Plurality: New Mexico
+Clinton Points: 450954
+Trump Points: 374142
+Johnson Points: 87273
+Stein Points: 11584
+Clinton wins with Plurality 
+
+Borda: New Mexico
+Clinton Points: 2179933
+Trump Points: 2064367
+Johnson Points: 1140243
+Stein Points: 159175
+Clinton wins with Borda 
+
+Copeland: New Mexico
+Clinton Points: 3
+Trump Points: 2
+Johnson Points: 1
+Stein Points: 0
+Clinton wins with Copeland 
+
+2-Approval: New Mexico
+Clinton Points: 810588
+Trump Points: 774621
+Johnson Points: 230975
+Stein Points: 31722
+Clinton wins with 2-Approval 
+
+Veto: New Mexico
+Clinton Points: -5562
+Trump Points: -8349
+Johnson Points: -101958
+Stein Points: -808084
+Clinton wins with Veto 
+
+Plurality w/ Runoff: New Mexico
+Stein removed after first round
+Clinton wins with Plurality w/ Runoff
+
+STV: New Mexico
+Stein removed after first round
+Johnson removed after second round
+Trump removed after third round
+Clinton wins with STV
+
+Plurality: New York
+Clinton Points: 5111674
+Trump Points: 3163502
+Johnson Points: 198366
+Stein Points: 121270
+Clinton wins with Plurality 
+
+Borda: New York
+Clinton Points: 21978490
+Trump Points: 19650872
+Johnson Points: 6162118
+Stein Points: 3777392
+Clinton wins with Borda 
+
+Copeland: New York
+Clinton Points: 3
+Trump Points: 2
+Johnson Points: 1
+Stein Points: 0
+Clinton wins with Copeland 
+
+2-Approval: New York
+Clinton Points: 8282922
+Trump Points: 7926102
+Johnson Points: 607858
+Stein Points: 372742
+Clinton wins with 2-Approval 
+
+Veto: New York
+Clinton Points: -10918
+Trump Points: -33544
+Johnson Points: -3238918
+Stein Points: -5311432
+Clinton wins with Veto 
+
+Plurality w/ Runoff: New York
+Stein removed after first round
+Clinton wins with Plurality w/ Runoff
+
+STV: New York
+Stein removed after first round
+Johnson removed after second round
+Trump removed after third round
+Clinton wins with STV
+
+Plurality: North Carolina
+Trump Points: 2780814
+Clinton Points: 2576564
+Johnson Points: 152906
+Stein Points: 14506
+Trump wins with Plurality 
+
+Borda: North Carolina
+Trump Points: 13600671
+Clinton Points: 13366227
+Johnson Points: 5643432
+Stein Points: 538410
+Trump wins with Borda 
+
+Copeland: North Carolina
+Trump Points: 2.5
+Clinton Points: 2.5
+Johnson Points: 1
+Stein Points: 0
+Trump wins with Copeland 
+
+2-Approval: North Carolina
+Trump Points: 5297544
+Clinton Points: 5267838
+Johnson Points: 441898
+Stein Points: 42300
+Trump wins with 2-Approval 
+
+Veto: North Carolina
+Trump Points: -2477
+Clinton Points: -2965
+Johnson Points: -476162
+Stein Points: -5043186
+Trump wins with Veto 
+
+Plurality w/ Runoff: North Carolina
+Stein removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: North Carolina
+Stein removed after first round
+Johnson removed after second round
+Clinton removed after third round
+Trump wins with STV
+
+Plurality: North Dakota
+Trump Points: 233616
+Clinton Points: 101037
+Johnson Points: 23078
+Stein Points: 4078
+Trump wins with Plurality 
+
+Borda: North Dakota
+Trump Points: 937459
+Clinton Points: 751534
+Johnson Points: 407245
+Stein Points: 74616
+Trump wins with Borda 
+
+Copeland: North Dakota
+Trump Points: 2.5
+Clinton Points: 2.5
+Johnson Points: 1
+Stein Points: 0
+Trump wins with Copeland 
+
+2-Approval: North Dakota
+Trump Points: 342712
+Clinton Points: 293194
+Johnson Points: 74339
+Stein Points: 13373
+Trump wins with 2-Approval 
+
+Veto: North Dakota
+Trump Points: -678
+Clinton Points: -4506
+Johnson Points: -51981
+Stein Points: -304644
+Trump wins with Veto 
+
+Plurality w/ Runoff: North Dakota
+Stein removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: North Dakota
+Stein removed after first round
+Johnson removed after second round
+Clinton removed after third round
+Trump wins with STV
+
+Plurality: Ohio
+Trump Points: 3084005
+Clinton Points: 2598940
+Johnson Points: 189131
+Stein Points: 50114
+Trump wins with Plurality 
+
+Borda: Ohio
+Trump Points: 14621322
+Clinton Points: 14038959
+Johnson Points: 5425573
+Stein Points: 1447286
+Trump wins with Borda 
+
+Copeland: Ohio
+Trump Points: 2.5
+Clinton Points: 2.5
+Johnson Points: 1
+Stein Points: 0
+Trump wins with Copeland 
+
+2-Approval: Ohio
+Trump Points: 5623902
+Clinton Points: 5530893
+Johnson Points: 544168
+Stein Points: 145417
+Trump wins with 2-Approval 
+
+Veto: Ohio
+Trump Points: -8775
+Clinton Points: -13064
+Johnson Points: -1229916
+Stein Points: -4670435
+Trump wins with Veto 
+
+Plurality w/ Runoff: Ohio
+Stein removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: Ohio
+Stein removed after first round
+Johnson removed after second round
+Clinton removed after third round
+Trump wins with STV
+
+Plurality: Oklahoma
+Trump Points: 1019448
+Clinton Points: 451509
+Johnson Points: 89739
+Stein Points: 0
+Trump wins with Plurality 
+
+Borda: Oklahoma
+Trump Points: 4076766
+Clinton Points: 3341681
+Johnson Points: 1945729
+Stein Points: 0
+Trump wins with Borda 
+
+Copeland: Oklahoma
+Trump Points: 2.5
+Clinton Points: 2.5
+Johnson Points: 1
+Stein Points: 0
+Trump wins with Copeland 
+
+2-Approval: Oklahoma
+Trump Points: 1496622
+Clinton Points: 1329476
+Johnson Points: 295294
+Stein Points: 0
+Trump wins with 2-Approval 
+
+Veto: Oklahoma
+Trump Points: 0
+Clinton Points: 0
+Johnson Points: 0
+Stein Points: -1560696
+Trump wins with Veto 
+
+Plurality w/ Runoff: Oklahoma
+Stein removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: Oklahoma
+Stein removed after first round
+Johnson removed after second round
+Clinton removed after third round
+Trump wins with STV
+
+Plurality: Oregon
+Clinton Points: 1233599
+Trump Points: 963079
+Johnson Points: 116040
+Stein Points: 61591
+Clinton wins with Plurality 
+
+Borda: Oregon
+Clinton Points: 5764924
+Trump Points: 5391545
+Johnson Points: 2010495
+Stein Points: 1078890
+Clinton wins with Borda 
+
+Copeland: Oregon
+Clinton Points: 3
+Trump Points: 2
+Johnson Points: 1
+Stein Points: 0
+Clinton wins with Copeland 
+
+2-Approval: Oregon
+Clinton Points: 2171695
+Trump Points: 2079716
+Johnson Points: 323811
+Stein Points: 173396
+Clinton wins with 2-Approval 
+
+Veto: Oregon
+Clinton Points: -14679
+Trump Points: -25559
+Johnson Points: -803665
+Stein Points: -1530406
+Clinton wins with Veto 
+
+Plurality w/ Runoff: Oregon
+Stein removed after first round
+Clinton wins with Plurality w/ Runoff
+
+STV: Oregon
+Stein removed after first round
+Johnson removed after second round
+Trump removed after third round
+Clinton wins with STV
+
+Plurality: Pennsylvania
+Trump Points: 3371223
+Clinton Points: 3320844
+Johnson Points: 166529
+Stein Points: 56674
+Trump wins with Plurality 
+
+Borda: Pennsylvania
+Trump Points: 16874360
+Clinton Points: 16815890
+Johnson Points: 5815090
+Stein Points: 1986280
+Trump wins with Borda 
+
+Copeland: Pennsylvania
+Trump Points: 2.5
+Clinton Points: 2.5
+Johnson Points: 1
+Stein Points: 0
+Trump wins with Copeland 
+
+2-Approval: Pennsylvania
+Trump Points: 6596895
+Clinton Points: 6589130
+Johnson Points: 480169
+Stein Points: 164346
+Trump wins with 2-Approval 
+
+Veto: Pennsylvania
+Trump Points: -9028
+Clinton Points: -9354
+Johnson Points: -1746878
+Stein Points: -5150010
+Trump wins with Veto 
+
+Plurality w/ Runoff: Pennsylvania
+Stein removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: Pennsylvania
+Stein removed after first round
+Johnson removed after second round
+Clinton removed after third round
+Trump wins with STV
+
+Plurality: Rhode Island
+Clinton Points: 287957
+Trump Points: 205872
+Johnson Points: 16827
+Stein Points: 7089
+Clinton wins with Plurality 
+
+Borda: Rhode Island
+Clinton Points: 1296370
+Trump Points: 1194974
+Johnson Points: 431963
+Stein Points: 183163
+Clinton wins with Borda 
+
+Copeland: Rhode Island
+Clinton Points: 3
+Trump Points: 2
+Johnson Points: 1
+Stein Points: 0
+Clinton wins with Copeland 
+
+2-Approval: Rhode Island
+Clinton Points: 491712
+Trump Points: 473628
+Johnson Points: 49258
+Stein Points: 20892
+Clinton wins with 2-Approval 
+
+Veto: Rhode Island
+Clinton Points: -1044
+Trump Points: -2271
+Johnson Points: -151867
+Stein Points: -362563
+Clinton wins with Veto 
+
+Plurality w/ Runoff: Rhode Island
+Stein removed after first round
+Clinton wins with Plurality w/ Runoff
+
+STV: Rhode Island
+Stein removed after first round
+Johnson removed after second round
+Trump removed after third round
+Clinton wins with STV
+
+Plurality: South Carolina
+Trump Points: 1400852
+Clinton Points: 1036997
+Johnson Points: 59662
+Stein Points: 15806
+Trump wins with Plurality 
+
+Borda: South Carolina
+Trump Points: 6340143
+Clinton Points: 5921264
+Johnson Points: 2226286
+Stein Points: 592209
+Trump wins with Borda 
+
+Copeland: South Carolina
+Trump Points: 2.5
+Clinton Points: 2.5
+Johnson Points: 1
+Stein Points: 0
+Trump wins with Copeland 
+
+2-Approval: South Carolina
+Trump Points: 2427766
+Clinton Points: 2374591
+Johnson Points: 177079
+Stein Points: 47198
+Trump wins with 2-Approval 
+
+Veto: South Carolina
+Trump Points: -1792
+Clinton Points: -3641
+Johnson Points: -523772
+Stein Points: -1984112
+Trump wins with Veto 
+
+Plurality w/ Runoff: South Carolina
+Stein removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: South Carolina
+Stein removed after first round
+Johnson removed after second round
+Clinton removed after third round
+Trump wins with STV
+
+Plurality: South Dakota
+Trump Points: 262922
+Clinton Points: 135627
+Johnson Points: 24056
+Stein Points: 0
+Trump wins with Plurality 
+
+Borda: South Dakota
+Trump Points: 1088577
+Clinton Points: 925357
+Johnson Points: 521696
+Stein Points: 0
+Trump wins with Borda 
+
+Copeland: South Dakota
+Trump Points: 2.5
+Clinton Points: 2.5
+Johnson Points: 1
+Stein Points: 0
+Trump wins with Copeland 
+
+2-Approval: South Dakota
+Trump Points: 403050
+Clinton Points: 367125
+Johnson Points: 75035
+Stein Points: 0
+Trump wins with 2-Approval 
+
+Veto: South Dakota
+Trump Points: 0
+Clinton Points: 0
+Johnson Points: 0
+Stein Points: -422605
+Trump wins with Veto 
+
+Plurality w/ Runoff: South Dakota
+Stein removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: South Dakota
+Stein removed after first round
+Johnson removed after second round
+Clinton removed after third round
+Trump wins with STV
+
+Plurality: Tennessee
+Trump Points: 1875110
+Clinton Points: 1072195
+Johnson Points: 86773
+Stein Points: 19760
+Trump wins with Plurality 
+
+Borda: Tennessee
+Trump Points: 7883652
+Clinton Points: 6934713
+Johnson Points: 2851046
+Stein Points: 653617
+Trump wins with Borda 
+
+Copeland: Tennessee
+Trump Points: 2.5
+Clinton Points: 2.5
+Johnson Points: 1
+Stein Points: 0
+Trump wins with Copeland 
+
+2-Approval: Tennessee
+Trump Points: 2956715
+Clinton Points: 2816164
+Johnson Points: 272328
+Stein Points: 62469
+Trump wins with 2-Approval 
+
+Veto: Tennessee
+Trump Points: -2011
+Clinton Points: -7484
+Johnson Points: -561893
+Stein Points: -2482450
+Trump wins with Veto 
+
+Plurality w/ Runoff: Tennessee
+Stein removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: Tennessee
+Stein removed after first round
+Johnson removed after second round
+Clinton removed after third round
+Trump wins with STV
+
+Plurality: Texas
+Trump Points: 5943729
+Clinton Points: 4920674
+Johnson Points: 359603
+Stein Points: 91037
+Trump wins with Plurality 
+
+Borda: Texas
+Trump Points: 28004145
+Clinton Points: 26778737
+Johnson Points: 10445287
+Stein Points: 2662089
+Trump wins with Borda 
+
+Copeland: Texas
+Trump Points: 2.5
+Clinton Points: 2.5
+Johnson Points: 1
+Stein Points: 0
+Trump wins with Copeland 
+
+2-Approval: Texas
+Trump Points: 10760929
+Clinton Points: 10567164
+Johnson Points: 1037173
+Stein Points: 264820
+Trump wins with 2-Approval 
+
+Veto: Texas
+Trump Points: -15556
+Clinton Points: -24144
+Johnson Points: -2266532
+Stein Points: -9008811
+Trump wins with Veto 
+
+Plurality w/ Runoff: Texas
+Stein removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: Texas
+Stein removed after first round
+Johnson removed after second round
+Clinton removed after third round
+Trump wins with STV
+
+Plurality: Utah
+Trump Points: 876458
+Clinton Points: 528490
+Johnson Points: 67358
+Stein Points: 15971
+Trump wins with Plurality 
+
+Borda: Utah
+Trump Points: 3772151
+Clinton Points: 3324485
+Johnson Points: 1477457
+Stein Points: 355569
+Trump wins with Borda 
+
+Copeland: Utah
+Trump Points: 2.5
+Clinton Points: 2.5
+Johnson Points: 1
+Stein Points: 0
+Trump wins with Copeland 
+
+2-Approval: Utah
+Trump Points: 1410121
+Clinton Points: 1316356
+Johnson Points: 201673
+Stein Points: 48404
+Trump wins with 2-Approval 
+
+Veto: Utah
+Trump Points: -2705
+Clinton Points: -8638
+Johnson Points: -279851
+Stein Points: -1197083
+Trump wins with Veto 
+
+Plurality w/ Runoff: Utah
+Stein removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: Utah
+Stein removed after first round
+Johnson removed after second round
+Clinton removed after third round
+Trump wins with STV
+
+Plurality: Vermont
+Clinton Points: 225653
+Trump Points: 120509
+Johnson Points: 12738
+Stein Points: 8517
+Clinton wins with Plurality 
+
+Borda: Vermont
+Clinton Points: 941350
+Trump Points: 803361
+Johnson Points: 274932
+Stein Points: 184859
+Clinton wins with Borda 
+
+Copeland: Vermont
+Clinton Points: 3
+Trump Points: 2
+Johnson Points: 1
+Stein Points: 0
+Clinton wins with Copeland 
+
+2-Approval: Vermont
+Clinton Points: 349248
+Trump Points: 319512
+Johnson Points: 39534
+Stein Points: 26540
+Clinton wins with 2-Approval 
+
+Veto: Vermont
+Clinton Points: -968
+Trump Points: -4077
+Johnson Points: -144757
+Stein Points: -217615
+Clinton wins with Veto 
+
+Plurality w/ Runoff: Vermont
+Stein removed after first round
+Clinton wins with Plurality w/ Runoff
+
+STV: Vermont
+Stein removed after first round
+Johnson removed after second round
+Trump removed after third round
+Clinton wins with STV
+
+Plurality: Virginia
+Clinton Points: 2268113
+Trump Points: 2025476
+Johnson Points: 135454
+Stein Points: 31468
+Clinton wins with Plurality 
+
+Borda: Virginia
+Clinton Points: 10964900
+Trump Points: 10677407
+Johnson Points: 4150573
+Stein Points: 970186
+Clinton wins with Borda 
+
+Copeland: Virginia
+Clinton Points: 3
+Trump Points: 2
+Johnson Points: 1
+Stein Points: 0
+Clinton wins with Copeland 
+
+2-Approval: Virginia
+Clinton Points: 4241889
+Trump Points: 4198727
+Johnson Points: 389223
+Stein Points: 91183
+Clinton wins with 2-Approval 
+
+Veto: Virginia
+Clinton Points: -5613
+Trump Points: -7307
+Johnson Points: -834615
+Stein Points: -3612976
+Clinton wins with Veto 
+
+Plurality w/ Runoff: Virginia
+Stein removed after first round
+Clinton wins with Plurality w/ Runoff
+
+STV: Virginia
+Stein removed after first round
+Johnson removed after second round
+Trump removed after third round
+Clinton wins with STV
+
+Plurality: Washington
+Clinton Points: 2237590
+Trump Points: 1568527
+Johnson Points: 206550
+Stein Points: 74953
+Clinton wins with Plurality 
+
+Borda: Washington
+Clinton Points: 10100401
+Trump Points: 9197712
+Johnson Points: 3820318
+Stein Points: 1407289
+Clinton wins with Borda 
+
+Copeland: Washington
+Clinton Points: 3
+Trump Points: 2
+Johnson Points: 1
+Stein Points: 0
+Clinton wins with Copeland 
+
+2-Approval: Washington
+Clinton Points: 3791717
+Trump Points: 3578414
+Johnson Points: 588840
+Stein Points: 216269
+Clinton wins with 2-Approval 
+
+Veto: Washington
+Clinton Points: -16526
+Trump Points: -36849
+Johnson Points: -1062692
+Stein Points: -2971553
+Clinton wins with Veto 
+
+Plurality w/ Runoff: Washington
+Stein removed after first round
+Clinton wins with Plurality w/ Runoff
+
+STV: Washington
+Stein removed after first round
+Johnson removed after second round
+Trump removed after third round
+Clinton wins with STV
+
+Plurality: West Virginia
+Trump Points: 548336
+Clinton Points: 211568
+Johnson Points: 25773
+Stein Points: 9043
+Trump wins with Plurality 
+
+Borda: West Virginia
+Trump Points: 2114333
+Clinton Points: 1691819
+Johnson Points: 710254
+Stein Points: 251914
+Trump wins with Borda 
+
+Copeland: West Virginia
+Trump Points: 2.5
+Clinton Points: 2.5
+Johnson Points: 1
+Stein Points: 0
+Trump wins with Copeland 
+
+2-Approval: West Virginia
+Trump Points: 771965
+Clinton Points: 691938
+Johnson Points: 92781
+Stein Points: 32756
+Trump wins with 2-Approval 
+
+Veto: West Virginia
+Trump Points: -688
+Clinton Points: -6407
+Johnson Points: -203020
+Stein Points: -584605
+Trump wins with Veto 
+
+Plurality w/ Runoff: West Virginia
+Stein removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: West Virginia
+Stein removed after first round
+Johnson removed after second round
+Clinton removed after third round
+Trump wins with STV
+
+Plurality: Wisconsin
+Trump Points: 1584425
+Clinton Points: 1558588
+Johnson Points: 120121
+Stein Points: 34894
+Trump wins with Plurality 
+
+Borda: Wisconsin
+Trump Points: 7955143
+Clinton Points: 7923304
+Johnson Points: 3024025
+Stein Points: 885696
+Trump wins with Borda 
+
+Copeland: Wisconsin
+Trump Points: 2.5
+Clinton Points: 2.5
+Johnson Points: 1
+Stein Points: 0
+Trump wins with Copeland 
+
+2-Approval: Wisconsin
+Trump Points: 3080946
+Clinton Points: 3075262
+Johnson Points: 340105
+Stein Points: 99743
+Trump wins with 2-Approval 
+
+Veto: Wisconsin
+Trump Points: -8256
+Clinton Points: -8574
+Johnson Points: -734229
+Stein Points: -2546969
+Trump wins with Veto 
+
+Plurality w/ Runoff: Wisconsin
+Stein removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: Wisconsin
+Stein removed after first round
+Johnson removed after second round
+Clinton removed after third round
+Trump wins with STV
+
+Plurality: Wyoming
+Trump Points: 196086
+Clinton Points: 62925
+Johnson Points: 14922
+Stein Points: 2819
+Trump wins with Plurality 
+
+Borda: Wyoming
+Trump Points: 739533
+Clinton Points: 555815
+Johnson Points: 305368
+Stein Points: 59796
+Trump wins with Borda 
+
+Copeland: Wyoming
+Trump Points: 2.5
+Clinton Points: 2.5
+Johnson Points: 1
+Stein Points: 0
+Trump wins with Copeland 
+
+2-Approval: Wyoming
+Trump Points: 266986
+Clinton Points: 220111
+Johnson Points: 55741
+Stein Points: 10666
+Trump wins with 2-Approval 
+
+Veto: Wyoming
+Trump Points: -291
+Clinton Points: -3973
+Johnson Points: -42047
+Stein Points: -230441
+Trump wins with Veto 
+
+Plurality w/ Runoff: Wyoming
+Stein removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: Wyoming
+Stein removed after first round
+Johnson removed after second round
+Clinton removed after third round
+Trump wins with STV
+
+PLURALITY SIMULATION
+Trump wins Alabama under Plurality and receives 9 electoral votes
+Trump wins Alaska under Plurality and receives 3 electoral votes
+Trump wins Arizona under Plurality and receives 11 electoral votes
+Trump wins Arkansas under Plurality and receives 6 electoral votes
+Clinton wins California under Plurality and receives 55 electoral votes
+Clinton wins Colorado under Plurality and receives 9 electoral votes
+Clinton wins Connecticut under Plurality and receives 7 electoral votes
+Clinton wins Delaware under Plurality and receives 3 electoral votes
+Clinton wins Washington D.C. under Plurality and receives 3 electoral votes
+Trump wins Florida under Plurality and receives 29 electoral votes
+Trump wins Georgia under Plurality and receives 16 electoral votes
+Clinton wins Hawaii under Plurality and receives 4 electoral votes
+Trump wins Idaho under Plurality and receives 4 electoral votes
+Clinton wins Illinois under Plurality and receives 20 electoral votes
+Trump wins Indiana under Plurality and receives 11 electoral votes
+Trump wins Iowa under Plurality and receives 6 electoral votes
+Trump wins Kansas under Plurality and receives 6 electoral votes
+Trump wins Kentucky under Plurality and receives 8 electoral votes
+Trump wins Louisiana under Plurality and receives 8 electoral votes
+Clinton wins Maine under Plurality and receives 2 electoral votes
+Clinton wins Maine1 under Plurality and receives 1 electoral votes
+Trump wins Maine2 under Plurality and receives 1 electoral votes
+Clinton wins Maryland under Plurality and receives 10 electoral votes
+Clinton wins Massachusetts under Plurality and receives 11 electoral votes
+Trump wins Michigan under Plurality and receives 16 electoral votes
+Clinton wins Minnesota under Plurality and receives 10 electoral votes
+Trump wins Mississippi under Plurality and receives 6 electoral votes
+Trump wins Missouri under Plurality and receives 10 electoral votes
+Trump wins Montana under Plurality and receives 3 electoral votes
+Trump wins Nebraska under Plurality and receives 2 electoral votes
+Trump wins Nebraska1 under Plurality and receives 1 electoral votes
+Trump wins Nebraska2 under Plurality and receives 1 electoral votes
+Trump wins Nebraska3 under Plurality and receives 1 electoral votes
+Clinton wins Nevada under Plurality and receives 6 electoral votes
+Clinton wins New Hampshire under Plurality and receives 4 electoral votes
+Clinton wins New Jersey under Plurality and receives 14 electoral votes
+Clinton wins New Mexico under Plurality and receives 5 electoral votes
+Clinton wins New York under Plurality and receives 29 electoral votes
+Trump wins North Carolina under Plurality and receives 15 electoral votes
+Trump wins North Dakota under Plurality and receives 3 electoral votes
+Trump wins Ohio under Plurality and receives 18 electoral votes
+Trump wins Oklahoma under Plurality and receives 7 electoral votes
+Clinton wins Oregon under Plurality and receives 7 electoral votes
+Trump wins Pennsylvania under Plurality and receives 20 electoral votes
+Clinton wins Rhode Island under Plurality and receives 4 electoral votes
+Trump wins South Carolina under Plurality and receives 9 electoral votes
+Trump wins South Dakota under Plurality and receives 3 electoral votes
+Trump wins Tennessee under Plurality and receives 11 electoral votes
+Trump wins Texas under Plurality and receives 38 electoral votes
+Trump wins Utah under Plurality and receives 6 electoral votes
+Clinton wins Vermont under Plurality and receives 3 electoral votes
+Clinton wins Virginia under Plurality and receives 13 electoral votes
+Clinton wins Washington under Plurality and receives 12 electoral votes
+Trump wins West Virginia under Plurality and receives 5 electoral votes
+Trump wins Wisconsin under Plurality and receives 10 electoral votes
+Trump wins Wyoming under Plurality and receives 3 electoral votes
+Trump Electoral Votes: 306
+Clinton Electoral Votes: 232
+Johnson Electoral Votes: 0
+Stein Electoral Votes: 0
+Trump wins with Plurality 
+
+
+BORDA SIMULATION
+Trump wins Alabama under Borda and receives 9 electoral votes
+Trump wins Alaska under Borda and receives 3 electoral votes
+Trump wins Arizona under Borda and receives 11 electoral votes
+Trump wins Arkansas under Borda and receives 6 electoral votes
+Clinton wins California under Borda and receives 55 electoral votes
+Clinton wins Colorado under Borda and receives 9 electoral votes
+Clinton wins Connecticut under Borda and receives 7 electoral votes
+Clinton wins Delaware under Borda and receives 3 electoral votes
+Clinton wins Washington D.C. under Borda and receives 3 electoral votes
+Trump wins Florida under Borda and receives 29 electoral votes
+Trump wins Georgia under Borda and receives 16 electoral votes
+Clinton wins Hawaii under Borda and receives 4 electoral votes
+Trump wins Idaho under Borda and receives 4 electoral votes
+Clinton wins Illinois under Borda and receives 20 electoral votes
+Trump wins Indiana under Borda and receives 11 electoral votes
+Trump wins Iowa under Borda and receives 6 electoral votes
+Trump wins Kansas under Borda and receives 6 electoral votes
+Trump wins Kentucky under Borda and receives 8 electoral votes
+Trump wins Louisiana under Borda and receives 8 electoral votes
+Clinton wins Maine under Borda and receives 2 electoral votes
+Clinton wins Maine1 under Borda and receives 1 electoral votes
+Trump wins Maine2 under Borda and receives 1 electoral votes
+Clinton wins Maryland under Borda and receives 10 electoral votes
+Clinton wins Massachusetts under Borda and receives 11 electoral votes
+Trump wins Michigan under Borda and receives 16 electoral votes
+Clinton wins Minnesota under Borda and receives 10 electoral votes
+Trump wins Mississippi under Borda and receives 6 electoral votes
+Trump wins Missouri under Borda and receives 10 electoral votes
+Trump wins Montana under Borda and receives 3 electoral votes
+Trump wins Nebraska under Borda and receives 2 electoral votes
+Trump wins Nebraska1 under Borda and receives 1 electoral votes
+Trump wins Nebraska2 under Borda and receives 1 electoral votes
+Trump wins Nebraska3 under Borda and receives 1 electoral votes
+Clinton wins Nevada under Borda and receives 6 electoral votes
+Clinton wins New Hampshire under Borda and receives 4 electoral votes
+Clinton wins New Jersey under Borda and receives 14 electoral votes
+Clinton wins New Mexico under Borda and receives 5 electoral votes
+Clinton wins New York under Borda and receives 29 electoral votes
+Trump wins North Carolina under Borda and receives 15 electoral votes
+Trump wins North Dakota under Borda and receives 3 electoral votes
+Trump wins Ohio under Borda and receives 18 electoral votes
+Trump wins Oklahoma under Borda and receives 7 electoral votes
+Clinton wins Oregon under Borda and receives 7 electoral votes
+Trump wins Pennsylvania under Borda and receives 20 electoral votes
+Clinton wins Rhode Island under Borda and receives 4 electoral votes
+Trump wins South Carolina under Borda and receives 9 electoral votes
+Trump wins South Dakota under Borda and receives 3 electoral votes
+Trump wins Tennessee under Borda and receives 11 electoral votes
+Trump wins Texas under Borda and receives 38 electoral votes
+Trump wins Utah under Borda and receives 6 electoral votes
+Clinton wins Vermont under Borda and receives 3 electoral votes
+Clinton wins Virginia under Borda and receives 13 electoral votes
+Clinton wins Washington under Borda and receives 12 electoral votes
+Trump wins West Virginia under Borda and receives 5 electoral votes
+Trump wins Wisconsin under Borda and receives 10 electoral votes
+Trump wins Wyoming under Borda and receives 3 electoral votes
+Trump Electoral Votes: 306
+Clinton Electoral Votes: 232
+Johnson Electoral Votes: 0
+Stein Electoral Votes: 0
+Trump wins with Borda 
+
+
+COPELAND SIMULATION
+Trump wins Alabama under Copeland and receives 9 electoral votes
+Trump wins Alaska under Copeland and receives 3 electoral votes
+Trump wins Arizona under Copeland and receives 11 electoral votes
+Trump wins Arkansas under Copeland and receives 6 electoral votes
+Clinton wins California under Copeland and receives 55 electoral votes
+Clinton wins Colorado under Copeland and receives 9 electoral votes
+Clinton wins Connecticut under Copeland and receives 7 electoral votes
+Clinton wins Delaware under Copeland and receives 3 electoral votes
+Clinton wins Washington D.C. under Copeland and receives 3 electoral votes
+Trump wins Florida under Copeland and receives 29 electoral votes
+Trump wins Georgia under Copeland and receives 16 electoral votes
+Clinton wins Hawaii under Copeland and receives 4 electoral votes
+Trump wins Idaho under Copeland and receives 4 electoral votes
+Clinton wins Illinois under Copeland and receives 20 electoral votes
+Trump wins Indiana under Copeland and receives 11 electoral votes
+Trump wins Iowa under Copeland and receives 6 electoral votes
+Trump wins Kansas under Copeland and receives 6 electoral votes
+Trump wins Kentucky under Copeland and receives 8 electoral votes
+Trump wins Louisiana under Copeland and receives 8 electoral votes
+Clinton wins Maine under Copeland and receives 2 electoral votes
+Clinton wins Maine1 under Copeland and receives 1 electoral votes
+Trump wins Maine2 under Copeland and receives 1 electoral votes
+Clinton wins Maryland under Copeland and receives 10 electoral votes
+Clinton wins Massachusetts under Copeland and receives 11 electoral votes
+Trump wins Michigan under Copeland and receives 16 electoral votes
+Clinton wins Minnesota under Copeland and receives 10 electoral votes
+Trump wins Mississippi under Copeland and receives 6 electoral votes
+Trump wins Missouri under Copeland and receives 10 electoral votes
+Trump wins Montana under Copeland and receives 3 electoral votes
+Trump wins Nebraska under Copeland and receives 2 electoral votes
+Trump wins Nebraska1 under Copeland and receives 1 electoral votes
+Trump wins Nebraska2 under Copeland and receives 1 electoral votes
+Trump wins Nebraska3 under Copeland and receives 1 electoral votes
+Clinton wins Nevada under Copeland and receives 6 electoral votes
+Clinton wins New Hampshire under Copeland and receives 4 electoral votes
+Clinton wins New Jersey under Copeland and receives 14 electoral votes
+Clinton wins New Mexico under Copeland and receives 5 electoral votes
+Clinton wins New York under Copeland and receives 29 electoral votes
+Trump wins North Carolina under Copeland and receives 15 electoral votes
+Trump wins North Dakota under Copeland and receives 3 electoral votes
+Trump wins Ohio under Copeland and receives 18 electoral votes
+Trump wins Oklahoma under Copeland and receives 7 electoral votes
+Clinton wins Oregon under Copeland and receives 7 electoral votes
+Trump wins Pennsylvania under Copeland and receives 20 electoral votes
+Clinton wins Rhode Island under Copeland and receives 4 electoral votes
+Trump wins South Carolina under Copeland and receives 9 electoral votes
+Trump wins South Dakota under Copeland and receives 3 electoral votes
+Trump wins Tennessee under Copeland and receives 11 electoral votes
+Trump wins Texas under Copeland and receives 38 electoral votes
+Trump wins Utah under Copeland and receives 6 electoral votes
+Clinton wins Vermont under Copeland and receives 3 electoral votes
+Clinton wins Virginia under Copeland and receives 13 electoral votes
+Clinton wins Washington under Copeland and receives 12 electoral votes
+Trump wins West Virginia under Copeland and receives 5 electoral votes
+Trump wins Wisconsin under Copeland and receives 10 electoral votes
+Trump wins Wyoming under Copeland and receives 3 electoral votes
+Trump Electoral Votes: 306
+Clinton Electoral Votes: 232
+Johnson Electoral Votes: 0
+Stein Electoral Votes: 0
+Trump wins with Copeland 
+
+
+2-APPROVAL SIMULATION
+Trump wins Alabama under 2-Approval and receives 9 electoral votes
+Trump wins Alaska under 2-Approval and receives 3 electoral votes
+Trump wins Arizona under 2-Approval and receives 11 electoral votes
+Trump wins Arkansas under 2-Approval and receives 6 electoral votes
+Clinton wins California under 2-Approval and receives 55 electoral votes
+Clinton wins Colorado under 2-Approval and receives 9 electoral votes
+Clinton wins Connecticut under 2-Approval and receives 7 electoral votes
+Clinton wins Delaware under 2-Approval and receives 3 electoral votes
+Clinton wins Washington D.C. under 2-Approval and receives 3 electoral votes
+Trump wins Florida under 2-Approval and receives 29 electoral votes
+Trump wins Georgia under 2-Approval and receives 16 electoral votes
+Clinton wins Hawaii under 2-Approval and receives 4 electoral votes
+Trump wins Idaho under 2-Approval and receives 4 electoral votes
+Clinton wins Illinois under 2-Approval and receives 20 electoral votes
+Trump wins Indiana under 2-Approval and receives 11 electoral votes
+Trump wins Iowa under 2-Approval and receives 6 electoral votes
+Trump wins Kansas under 2-Approval and receives 6 electoral votes
+Trump wins Kentucky under 2-Approval and receives 8 electoral votes
+Trump wins Louisiana under 2-Approval and receives 8 electoral votes
+Clinton wins Maine under 2-Approval and receives 2 electoral votes
+Clinton wins Maine1 under 2-Approval and receives 1 electoral votes
+Trump wins Maine2 under 2-Approval and receives 1 electoral votes
+Clinton wins Maryland under 2-Approval and receives 10 electoral votes
+Clinton wins Massachusetts under 2-Approval and receives 11 electoral votes
+Trump wins Michigan under 2-Approval and receives 16 electoral votes
+Clinton wins Minnesota under 2-Approval and receives 10 electoral votes
+Trump wins Mississippi under 2-Approval and receives 6 electoral votes
+Trump wins Missouri under 2-Approval and receives 10 electoral votes
+Trump wins Montana under 2-Approval and receives 3 electoral votes
+Trump wins Nebraska under 2-Approval and receives 2 electoral votes
+Trump wins Nebraska1 under 2-Approval and receives 1 electoral votes
+Trump wins Nebraska2 under 2-Approval and receives 1 electoral votes
+Trump wins Nebraska3 under 2-Approval and receives 1 electoral votes
+Clinton wins Nevada under 2-Approval and receives 6 electoral votes
+Clinton wins New Hampshire under 2-Approval and receives 4 electoral votes
+Clinton wins New Jersey under 2-Approval and receives 14 electoral votes
+Clinton wins New Mexico under 2-Approval and receives 5 electoral votes
+Clinton wins New York under 2-Approval and receives 29 electoral votes
+Trump wins North Carolina under 2-Approval and receives 15 electoral votes
+Trump wins North Dakota under 2-Approval and receives 3 electoral votes
+Trump wins Ohio under 2-Approval and receives 18 electoral votes
+Trump wins Oklahoma under 2-Approval and receives 7 electoral votes
+Clinton wins Oregon under 2-Approval and receives 7 electoral votes
+Trump wins Pennsylvania under 2-Approval and receives 20 electoral votes
+Clinton wins Rhode Island under 2-Approval and receives 4 electoral votes
+Trump wins South Carolina under 2-Approval and receives 9 electoral votes
+Trump wins South Dakota under 2-Approval and receives 3 electoral votes
+Trump wins Tennessee under 2-Approval and receives 11 electoral votes
+Trump wins Texas under 2-Approval and receives 38 electoral votes
+Trump wins Utah under 2-Approval and receives 6 electoral votes
+Clinton wins Vermont under 2-Approval and receives 3 electoral votes
+Clinton wins Virginia under 2-Approval and receives 13 electoral votes
+Clinton wins Washington under 2-Approval and receives 12 electoral votes
+Trump wins West Virginia under 2-Approval and receives 5 electoral votes
+Trump wins Wisconsin under 2-Approval and receives 10 electoral votes
+Trump wins Wyoming under 2-Approval and receives 3 electoral votes
+Trump Electoral Votes: 306
+Clinton Electoral Votes: 232
+Johnson Electoral Votes: 0
+Stein Electoral Votes: 0
+Trump wins with 2-Approval 
+
+
+VETO SIMULATION
+Trump wins Alabama under Veto and receives 9 electoral votes
+Trump wins Alaska under Veto and receives 3 electoral votes
+Trump wins Arizona under Veto and receives 11 electoral votes
+Trump wins Arkansas under Veto and receives 6 electoral votes
+Clinton wins California under Veto and receives 55 electoral votes
+Clinton wins Colorado under Veto and receives 9 electoral votes
+Clinton wins Connecticut under Veto and receives 7 electoral votes
+Clinton wins Delaware under Veto and receives 3 electoral votes
+Clinton wins Washington D.C. under Veto and receives 3 electoral votes
+Trump wins Florida under Veto and receives 29 electoral votes
+Trump wins Georgia under Veto and receives 16 electoral votes
+Clinton wins Hawaii under Veto and receives 4 electoral votes
+Trump wins Idaho under Veto and receives 4 electoral votes
+Clinton wins Illinois under Veto and receives 20 electoral votes
+Trump wins Indiana under Veto and receives 11 electoral votes
+Trump wins Iowa under Veto and receives 6 electoral votes
+Trump wins Kansas under Veto and receives 6 electoral votes
+Trump wins Kentucky under Veto and receives 8 electoral votes
+Trump wins Louisiana under Veto and receives 8 electoral votes
+Clinton wins Maine under Veto and receives 2 electoral votes
+Clinton wins Maine1 under Veto and receives 1 electoral votes
+Trump wins Maine2 under Veto and receives 1 electoral votes
+Clinton wins Maryland under Veto and receives 10 electoral votes
+Clinton wins Massachusetts under Veto and receives 11 electoral votes
+Trump wins Michigan under Veto and receives 16 electoral votes
+Clinton wins Minnesota under Veto and receives 10 electoral votes
+Trump wins Mississippi under Veto and receives 6 electoral votes
+Trump wins Missouri under Veto and receives 10 electoral votes
+Trump wins Montana under Veto and receives 3 electoral votes
+Trump wins Nebraska under Veto and receives 2 electoral votes
+Trump wins Nebraska1 under Veto and receives 1 electoral votes
+Trump wins Nebraska2 under Veto and receives 1 electoral votes
+Trump wins Nebraska3 under Veto and receives 1 electoral votes
+Clinton wins Nevada under Veto and receives 6 electoral votes
+Clinton wins New Hampshire under Veto and receives 4 electoral votes
+Clinton wins New Jersey under Veto and receives 14 electoral votes
+Clinton wins New Mexico under Veto and receives 5 electoral votes
+Clinton wins New York under Veto and receives 29 electoral votes
+Trump wins North Carolina under Veto and receives 15 electoral votes
+Trump wins North Dakota under Veto and receives 3 electoral votes
+Trump wins Ohio under Veto and receives 18 electoral votes
+Trump wins Oklahoma under Veto and receives 7 electoral votes
+Clinton wins Oregon under Veto and receives 7 electoral votes
+Trump wins Pennsylvania under Veto and receives 20 electoral votes
+Clinton wins Rhode Island under Veto and receives 4 electoral votes
+Trump wins South Carolina under Veto and receives 9 electoral votes
+Trump wins South Dakota under Veto and receives 3 electoral votes
+Trump wins Tennessee under Veto and receives 11 electoral votes
+Trump wins Texas under Veto and receives 38 electoral votes
+Trump wins Utah under Veto and receives 6 electoral votes
+Clinton wins Vermont under Veto and receives 3 electoral votes
+Clinton wins Virginia under Veto and receives 13 electoral votes
+Clinton wins Washington under Veto and receives 12 electoral votes
+Trump wins West Virginia under Veto and receives 5 electoral votes
+Trump wins Wisconsin under Veto and receives 10 electoral votes
+Trump wins Wyoming under Veto and receives 3 electoral votes
+Trump Electoral Votes: 306
+Clinton Electoral Votes: 232
+Johnson Electoral Votes: 0
+Stein Electoral Votes: 0
+Trump wins with Veto 
+
+
+PLURALITY W/ RUNOFF SIMULATION
+Trump wins Alabama under Plurality w/ Runoff and receives 9 electoral votes
+Trump wins Alaska under Plurality w/ Runoff and receives 3 electoral votes
+Trump wins Arizona under Plurality w/ Runoff and receives 11 electoral votes
+Trump wins Arkansas under Plurality w/ Runoff and receives 6 electoral votes
+Clinton wins California under Plurality w/ Runoff and receives 55 electoral votes
+Clinton wins Colorado under Plurality w/ Runoff and receives 9 electoral votes
+Clinton wins Connecticut under Plurality w/ Runoff and receives 7 electoral votes
+Clinton wins Delaware under Plurality w/ Runoff and receives 3 electoral votes
+Clinton wins Washington D.C. under Plurality w/ Runoff and receives 3 electoral votes
+Trump wins Florida under Plurality w/ Runoff and receives 29 electoral votes
+Trump wins Georgia under Plurality w/ Runoff and receives 16 electoral votes
+Clinton wins Hawaii under Plurality w/ Runoff and receives 4 electoral votes
+Trump wins Idaho under Plurality w/ Runoff and receives 4 electoral votes
+Clinton wins Illinois under Plurality w/ Runoff and receives 20 electoral votes
+Trump wins Indiana under Plurality w/ Runoff and receives 11 electoral votes
+Trump wins Iowa under Plurality w/ Runoff and receives 6 electoral votes
+Trump wins Kansas under Plurality w/ Runoff and receives 6 electoral votes
+Trump wins Kentucky under Plurality w/ Runoff and receives 8 electoral votes
+Trump wins Louisiana under Plurality w/ Runoff and receives 8 electoral votes
+Clinton wins Maine under Plurality w/ Runoff and receives 2 electoral votes
+Clinton wins Maine1 under Plurality w/ Runoff and receives 1 electoral votes
+Trump wins Maine2 under Plurality w/ Runoff and receives 1 electoral votes
+Clinton wins Maryland under Plurality w/ Runoff and receives 10 electoral votes
+Clinton wins Massachusetts under Plurality w/ Runoff and receives 11 electoral votes
+Trump wins Michigan under Plurality w/ Runoff and receives 16 electoral votes
+Clinton wins Minnesota under Plurality w/ Runoff and receives 10 electoral votes
+Trump wins Mississippi under Plurality w/ Runoff and receives 6 electoral votes
+Trump wins Missouri under Plurality w/ Runoff and receives 10 electoral votes
+Trump wins Montana under Plurality w/ Runoff and receives 3 electoral votes
+Trump wins Nebraska under Plurality w/ Runoff and receives 2 electoral votes
+Trump wins Nebraska1 under Plurality w/ Runoff and receives 1 electoral votes
+Trump wins Nebraska2 under Plurality w/ Runoff and receives 1 electoral votes
+Trump wins Nebraska3 under Plurality w/ Runoff and receives 1 electoral votes
+Clinton wins Nevada under Plurality w/ Runoff and receives 6 electoral votes
+Clinton wins New Hampshire under Plurality w/ Runoff and receives 4 electoral votes
+Clinton wins New Jersey under Plurality w/ Runoff and receives 14 electoral votes
+Clinton wins New Mexico under Plurality w/ Runoff and receives 5 electoral votes
+Clinton wins New York under Plurality w/ Runoff and receives 29 electoral votes
+Trump wins North Carolina under Plurality w/ Runoff and receives 15 electoral votes
+Trump wins North Dakota under Plurality w/ Runoff and receives 3 electoral votes
+Trump wins Ohio under Plurality w/ Runoff and receives 18 electoral votes
+Trump wins Oklahoma under Plurality w/ Runoff and receives 7 electoral votes
+Clinton wins Oregon under Plurality w/ Runoff and receives 7 electoral votes
+Trump wins Pennsylvania under Plurality w/ Runoff and receives 20 electoral votes
+Clinton wins Rhode Island under Plurality w/ Runoff and receives 4 electoral votes
+Trump wins South Carolina under Plurality w/ Runoff and receives 9 electoral votes
+Trump wins South Dakota under Plurality w/ Runoff and receives 3 electoral votes
+Trump wins Tennessee under Plurality w/ Runoff and receives 11 electoral votes
+Trump wins Texas under Plurality w/ Runoff and receives 38 electoral votes
+Trump wins Utah under Plurality w/ Runoff and receives 6 electoral votes
+Clinton wins Vermont under Plurality w/ Runoff and receives 3 electoral votes
+Clinton wins Virginia under Plurality w/ Runoff and receives 13 electoral votes
+Clinton wins Washington under Plurality w/ Runoff and receives 12 electoral votes
+Trump wins West Virginia under Plurality w/ Runoff and receives 5 electoral votes
+Trump wins Wisconsin under Plurality w/ Runoff and receives 10 electoral votes
+Trump wins Wyoming under Plurality w/ Runoff and receives 3 electoral votes
+Trump Electoral Votes: 306
+Clinton Electoral Votes: 232
+Johnson Electoral Votes: 0
+Stein Electoral Votes: 0
+Trump wins with Plurality w/ Runoff 
+
+
+STV SIMULATION
+Trump wins Alabama under STV and receives 9 electoral votes
+Trump wins Alaska under STV and receives 3 electoral votes
+Trump wins Arizona under STV and receives 11 electoral votes
+Trump wins Arkansas under STV and receives 6 electoral votes
+Clinton wins California under STV and receives 55 electoral votes
+Clinton wins Colorado under STV and receives 9 electoral votes
+Clinton wins Connecticut under STV and receives 7 electoral votes
+Clinton wins Delaware under STV and receives 3 electoral votes
+Clinton wins Washington D.C. under STV and receives 3 electoral votes
+Trump wins Florida under STV and receives 29 electoral votes
+Trump wins Georgia under STV and receives 16 electoral votes
+Clinton wins Hawaii under STV and receives 4 electoral votes
+Trump wins Idaho under STV and receives 4 electoral votes
+Clinton wins Illinois under STV and receives 20 electoral votes
+Trump wins Indiana under STV and receives 11 electoral votes
+Trump wins Iowa under STV and receives 6 electoral votes
+Trump wins Kansas under STV and receives 6 electoral votes
+Trump wins Kentucky under STV and receives 8 electoral votes
+Trump wins Louisiana under STV and receives 8 electoral votes
+Clinton wins Maine under STV and receives 2 electoral votes
+Clinton wins Maine1 under STV and receives 1 electoral votes
+Trump wins Maine2 under STV and receives 1 electoral votes
+Clinton wins Maryland under STV and receives 10 electoral votes
+Clinton wins Massachusetts under STV and receives 11 electoral votes
+Trump wins Michigan under STV and receives 16 electoral votes
+Clinton wins Minnesota under STV and receives 10 electoral votes
+Trump wins Mississippi under STV and receives 6 electoral votes
+Trump wins Missouri under STV and receives 10 electoral votes
+Trump wins Montana under STV and receives 3 electoral votes
+Trump wins Nebraska under STV and receives 2 electoral votes
+Trump wins Nebraska1 under STV and receives 1 electoral votes
+Trump wins Nebraska2 under STV and receives 1 electoral votes
+Trump wins Nebraska3 under STV and receives 1 electoral votes
+Clinton wins Nevada under STV and receives 6 electoral votes
+Clinton wins New Hampshire under STV and receives 4 electoral votes
+Clinton wins New Jersey under STV and receives 14 electoral votes
+Clinton wins New Mexico under STV and receives 5 electoral votes
+Clinton wins New York under STV and receives 29 electoral votes
+Trump wins North Carolina under STV and receives 15 electoral votes
+Trump wins North Dakota under STV and receives 3 electoral votes
+Trump wins Ohio under STV and receives 18 electoral votes
+Trump wins Oklahoma under STV and receives 7 electoral votes
+Clinton wins Oregon under STV and receives 7 electoral votes
+Trump wins Pennsylvania under STV and receives 20 electoral votes
+Clinton wins Rhode Island under STV and receives 4 electoral votes
+Trump wins South Carolina under STV and receives 9 electoral votes
+Trump wins South Dakota under STV and receives 3 electoral votes
+Trump wins Tennessee under STV and receives 11 electoral votes
+Trump wins Texas under STV and receives 38 electoral votes
+Trump wins Utah under STV and receives 6 electoral votes
+Clinton wins Vermont under STV and receives 3 electoral votes
+Clinton wins Virginia under STV and receives 13 electoral votes
+Clinton wins Washington under STV and receives 12 electoral votes
+Trump wins West Virginia under STV and receives 5 electoral votes
+Trump wins Wisconsin under STV and receives 10 electoral votes
+Trump wins Wyoming under STV and receives 3 electoral votes
+Trump Electoral Votes: 306
+Clinton Electoral Votes: 232
+Johnson Electoral Votes: 0
+Stein Electoral Votes: 0
+Trump wins with STV 

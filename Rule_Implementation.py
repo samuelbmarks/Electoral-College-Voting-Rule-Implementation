@@ -113,9 +113,9 @@ class State():
 	def getWinner(self, rule):
 		self.points = dict(sorted(self.points.items(), key=lambda x: x[1], reverse=True))
 
-		# for alt, points in self.points.items():
-		# 	print(ALT[alt],'Points:', points)
-		# print(ALT[next(iter(self.points))],'wins with',rule)
+		for alt, points in self.points.items():
+			print(ALT[alt],'Points:', points)
+		print(ALT[next(iter(self.points))],'wins with',rule,'\n')
 		
 		return next(iter(self.points))
 
@@ -129,6 +129,7 @@ class State():
 		'''
 		The winner is the candidate with the most first place votes (1-approval). 
 		'''
+		print('Plurality:',self.name)
 		self.setPoints()
 
 		for profile, num_votes in self.votes:
@@ -142,6 +143,8 @@ class State():
 		The winner is the candidate with the most points where points are assigned to candidates based on their ranking 
 		(3 points for first, 2 points for second, 1 point for third, 0 points for fourth).
 		'''
+		print('Borda:',self.name)
+
 		self.setPoints()
 
 		for profile, num_votes in self.votes:
@@ -157,6 +160,8 @@ class State():
 		The winner is the alternative with the highest Copeland score, or the number of pairwise wins (the number of 
 		positive outgoing edges in the WMG).
 		'''
+		print('Copeland:',self.name)
+
 		self.setPoints()
 
 		# Biden vs Trump
@@ -236,6 +241,8 @@ class State():
 		'''
 		The winner is the candidate with the most first or second place votes.
 		'''
+		print('2-Approval:',self.name)
+
 		self.setPoints()
 
 		for profile, num_votes in self.votes:
@@ -248,8 +255,10 @@ class State():
 
 	def veto(self):
 		'''
-		Winner is the candidate with the least last-place preferences
+		The winner is the candidate with the least last-place preferences
 		'''
+		print('Veto:',self.name)
+
 		self.setPoints()
 
 		for profile, num_votes in self.votes:
@@ -263,6 +272,8 @@ class State():
 		The election has two rounds. In the first round, all alternatives except the two with the highest plurality 
 		scores drop out. In the second round, the alternative preferred by more voters wins.
 		'''
+		print('Plurality w/ Runoff:',self.name)
+
 		self.setPoints()
 
 		# First round
@@ -272,7 +283,8 @@ class State():
 
 		self.points = dict(sorted(self.points.items(), key=lambda x: x[1]))
 		remove = next(iter(self.points))
-
+		print(ALT[remove],'removed after first round')
+		
 		self.setPoints()
 
 		# Second round
@@ -283,13 +295,15 @@ class State():
 			self.points[alt] += num_votes
 
 		self.points = dict(sorted(self.points.items(), key=lambda x: x[1], reverse=True))
-		# print(ALT[next(iter(self.points))],'wins with Plurality w/ Runoff')
+		print(ALT[next(iter(self.points))],'wins with Plurality w/ Runoff\n')
 		self.w_pluralityRunoff = next(iter(self.points))
 
 	def stv(self):
 		'''
 		Single Transferable Vote (STV)
 		'''
+		print('STV:',self.name)
+
 		self.setPoints()
 		removed = []
 
@@ -300,7 +314,7 @@ class State():
 
 		scores = dict(sorted(self.points.items(), key=lambda x: x[1]))
 		remove = list(scores.keys())[0]
-		# print(ALT[remove],'removed after first round')
+		print(ALT[remove],'removed after first round')
 		removed.append(remove)
 
 		self.setPoints()
@@ -316,7 +330,7 @@ class State():
 		
 		scores = dict(sorted(self.points.items(), key=lambda x: x[1]))
 		remove = list(scores.keys())[1]
-		# print(ALT[remove],'removed after second round')
+		print(ALT[remove],'removed after second round')
 		removed.append(remove)
 
 		self.setPoints()
@@ -332,11 +346,11 @@ class State():
 
 		scores = dict(sorted(self.points.items(), key=lambda x: x[1]))
 		remove = list(scores.keys())[2]
-		# print(ALT[remove],'removed after third round')
+		print(ALT[remove],'removed after third round')
 		removed.append(remove)
 
 		winner = set(self.points.keys()) - set(removed)
-		# print(ALT[list(winner)[0]],'wins with STV')
+		print(ALT[list(winner)[0]],'wins with STV\n')
 		self.w_stv = list(winner)[0]
 
 
@@ -375,12 +389,12 @@ class Nation():
 				winner = state.w_stv
 				
 			self.altElectoralVotes[winner] += state.electoral_votes
-			# print(ALT[winner],'wins',state.name,'under',rule,'and receives',state.electoral_votes,'electoral votes')
+			print(ALT[winner],'wins',state.name,'under',rule,'and receives',state.electoral_votes,'electoral votes')
 
 		self.altElectoralVotes = dict(sorted(self.altElectoralVotes.items(), key=lambda x: x[1], reverse=True))
 		for alt in self.altElectoralVotes:
 			print(ALT[alt],'Electoral Votes:',self.altElectoralVotes[alt])
-		print(ALT[next(iter(self.altElectoralVotes))],'wins with',rule)
+		print(ALT[next(iter(self.altElectoralVotes))],'wins with',rule,'\n')
 
 if __name__ == "__main__":
 
@@ -388,7 +402,7 @@ if __name__ == "__main__":
 	states = []
 
 	# Read in data
-	with open('2020_election_data.csv') as csvfile:
+	with open('2016_election_data.csv') as csvfile:
 		readCSV = csv.reader(csvfile, delimiter=',')
 		for row in readCSV:
 			state = State(row[0],float(row[1]),float(row[2]),float(row[3]),float(row[4]),int(row[5]),int(row[6]))

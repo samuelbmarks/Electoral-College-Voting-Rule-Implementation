@@ -1,0 +1,2966 @@
+Plurality: Alabama
+Trump Points: 1445757
+Biden Points: 852351
+Jorgensen Points: 25171
+Hawkins Points: 0
+Trump wins with Plurality 
+
+Borda: Alabama
+Trump Points: 6068393
+Biden Points: 5441603
+Jorgensen Points: 2429678
+Hawkins Points: 0
+Trump wins with Borda 
+
+Copeland: Alabama
+Trump Points: 2.5
+Biden Points: 2.5
+Jorgensen Points: 1
+Hawkins Points: 0
+Trump wins with Copeland 
+
+2-Approval: Alabama
+Trump Points: 2299357
+Biden Points: 2265973
+Jorgensen Points: 81228
+Hawkins Points: 0
+Trump wins with 2-Approval 
+
+Veto: Alabama
+Trump Points: 0
+Biden Points: 0
+Jorgensen Points: 0
+Hawkins Points: -2323279
+Trump wins with Veto 
+
+Plurality w/ Runoff: Alabama
+Hawkins removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: Alabama
+Hawkins removed after first round
+Jorgensen removed after second round
+Biden removed after third round
+Trump wins with STV
+
+Plurality: Alaska
+Trump Points: 193677
+Biden Points: 156796
+Jorgensen Points: 9055
+Hawkins Points: 0
+Trump wins with Plurality 
+
+Borda: Alaska
+Trump Points: 901679
+Biden Points: 860274
+Jorgensen Points: 395215
+Hawkins Points: 0
+Trump wins with Borda 
+
+Copeland: Alaska
+Trump Points: 2.5
+Biden Points: 2.5
+Jorgensen Points: 1
+Hawkins Points: 0
+Trump wins with Copeland 
+
+2-Approval: Alaska
+Trump Points: 348474
+Biden Points: 343950
+Jorgensen Points: 26632
+Hawkins Points: 0
+Trump wins with 2-Approval 
+
+Veto: Alaska
+Trump Points: 0
+Biden Points: 0
+Jorgensen Points: 0
+Hawkins Points: -359528
+Trump wins with Veto 
+
+Plurality w/ Runoff: Alaska
+Hawkins removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: Alaska
+Hawkins removed after first round
+Jorgensen removed after second round
+Biden removed after third round
+Trump wins with STV
+
+Plurality: Arizona
+Biden Points: 1672148
+Trump Points: 1661984
+Jorgensen Points: 51490
+Hawkins Points: 1690
+Biden wins with Plurality 
+
+Borda: Arizona
+Biden Points: 8368836
+Trump Points: 8357885
+Jorgensen Points: 3482419
+Hawkins Points: 114732
+Biden wins with Borda 
+
+Copeland: Arizona
+Biden Points: 3
+Trump Points: 2
+Jorgensen Points: 1
+Hawkins Points: 0
+Biden wins with Copeland 
+
+2-Approval: Arizona
+Biden Points: 3309548
+Trump Points: 3308765
+Jorgensen Points: 151315
+Hawkins Points: 4996
+Biden wins with 2-Approval 
+
+Veto: Arizona
+Biden Points: -172
+Trump Points: -176
+Jorgensen Points: -107698
+Hawkins Points: -3279266
+Biden wins with Veto 
+
+Plurality w/ Runoff: Arizona
+Hawkins removed after first round
+Biden wins with Plurality w/ Runoff
+
+STV: Arizona
+Hawkins removed after first round
+Jorgensen removed after second round
+Trump removed after third round
+Biden wins with STV
+
+Plurality: Arkansas
+Trump Points: 772279
+Biden Points: 430445
+Jorgensen Points: 13363
+Hawkins Points: 2966
+Trump wins with Plurality 
+
+Borda: Arkansas
+Trump Points: 3195476
+Biden Points: 2829340
+Jorgensen Points: 1054851
+Hawkins Points: 234651
+Trump wins with Borda 
+
+Copeland: Arkansas
+Trump Points: 2.5
+Biden Points: 2.5
+Jorgensen Points: 1
+Hawkins Points: 0
+Trump wins with Copeland 
+
+2-Approval: Arkansas
+Trump Points: 1204255
+Biden Points: 1180309
+Jorgensen Points: 43791
+Hawkins Points: 9751
+Trump wins with 2-Approval 
+
+Veto: Arkansas
+Trump Points: -111
+Biden Points: -467
+Jorgensen Points: -221356
+Hawkins Points: -997119
+Trump wins with Veto 
+
+Plurality w/ Runoff: Arkansas
+Hawkins removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: Arkansas
+Hawkins removed after first round
+Jorgensen removed after second round
+Biden removed after third round
+Trump wins with STV
+
+Plurality: California
+Biden Points: 11184491
+Trump Points: 6046814
+Jorgensen Points: 188518
+Hawkins Points: 81044
+Biden wins with Plurality 
+
+Borda: California
+Biden Points: 45945201
+Trump Points: 40382559
+Jorgensen Points: 13058387
+Hawkins Points: 5619055
+Biden wins with Borda 
+
+Copeland: California
+Biden Points: 3
+Trump Points: 2
+Jorgensen Points: 1
+Hawkins Points: 0
+Biden wins with Copeland 
+
+2-Approval: California
+Biden Points: 17262823
+Trump Points: 16847955
+Jorgensen Points: 622736
+Hawkins Points: 268220
+Biden wins with 2-Approval 
+
+Veto: California
+Biden Points: -2980
+Trump Points: -13077
+Jorgensen Points: -5253734
+Hawkins Points: -12231076
+Biden wins with Veto 
+
+Plurality w/ Runoff: California
+Hawkins removed after first round
+Biden wins with Plurality w/ Runoff
+
+STV: California
+Hawkins removed after first round
+Jorgensen removed after second round
+Trump removed after third round
+Biden wins with STV
+
+Plurality: Colorado
+Biden Points: 1819098
+Trump Points: 1375815
+Jorgensen Points: 52863
+Hawkins Points: 9191
+Biden wins with Plurality 
+
+Borda: Colorado
+Biden Points: 8260019
+Trump Points: 7774343
+Jorgensen Points: 2986943
+Hawkins Points: 520497
+Biden wins with Borda 
+
+Copeland: Colorado
+Biden Points: 3
+Trump Points: 2
+Jorgensen Points: 1
+Hawkins Points: 0
+Biden wins with Copeland 
+
+2-Approval: Colorado
+Biden Points: 3184689
+Trump Points: 3142994
+Jorgensen Points: 158555
+Hawkins Points: 27696
+Biden wins with 2-Approval 
+
+Veto: Colorado
+Biden Points: -735
+Trump Points: -1433
+Jorgensen Points: -481442
+Hawkins Points: -2773357
+Biden wins with Veto 
+
+Plurality w/ Runoff: Colorado
+Hawkins removed after first round
+Biden wins with Plurality w/ Runoff
+
+STV: Colorado
+Hawkins removed after first round
+Jorgensen removed after second round
+Trump removed after third round
+Biden wins with STV
+
+Plurality: Connecticut
+Biden Points: 1081139
+Trump Points: 714981
+Jorgensen Points: 20248
+Hawkins Points: 7478
+Biden wins with Plurality 
+
+Borda: Connecticut
+Biden Points: 4699464
+Trump Points: 4304602
+Jorgensen Points: 1415649
+Hawkins Points: 523361
+Biden wins with Borda 
+
+Copeland: Connecticut
+Biden Points: 3
+Trump Points: 2
+Jorgensen Points: 1
+Hawkins Points: 0
+Biden wins with Copeland 
+
+2-Approval: Connecticut
+Biden Points: 1794831
+Trump Points: 1766726
+Jorgensen Points: 62865
+Hawkins Points: 23270
+Biden wins with 2-Approval 
+
+Veto: Connecticut
+Biden Points: -352
+Trump Points: -951
+Jorgensen Points: -491310
+Hawkins Points: -1331233
+Biden wins with Veto 
+
+Plurality w/ Runoff: Connecticut
+Hawkins removed after first round
+Biden wins with Plurality w/ Runoff
+
+STV: Connecticut
+Hawkins removed after first round
+Jorgensen removed after second round
+Trump removed after third round
+Biden wins with STV
+
+Plurality: Delaware
+Biden Points: 296487
+Trump Points: 200736
+Jorgensen Points: 4994
+Hawkins Points: 2118
+Biden wins with Plurality 
+
+Borda: Delaware
+Biden Points: 1297468
+Trump Points: 1194767
+Jorgensen Points: 374707
+Hawkins Points: 159068
+Biden wins with Borda 
+
+Copeland: Delaware
+Biden Points: 3
+Trump Points: 2
+Jorgensen Points: 1
+Hawkins Points: 0
+Biden wins with Copeland 
+
+2-Approval: Delaware
+Biden Points: 496736
+Trump Points: 489928
+Jorgensen Points: 15444
+Hawkins Points: 6562
+Biden wins with 2-Approval 
+
+Veto: Delaware
+Biden Points: -90
+Trump Points: -232
+Jorgensen Points: -150066
+Hawkins Points: -353947
+Biden wins with Veto 
+
+Plurality w/ Runoff: Delaware
+Hawkins removed after first round
+Biden wins with Plurality w/ Runoff
+
+STV: Delaware
+Hawkins removed after first round
+Jorgensen removed after second round
+Trump removed after third round
+Biden wins with STV
+
+Plurality: Washington D.C.
+Biden Points: 321697
+Trump Points: 18848
+Jorgensen Points: 2056
+Hawkins Points: 1742
+Biden wins with Plurality 
+
+Borda: Washington D.C.
+Biden Points: 1009940
+Trump Points: 644653
+Jorgensen Points: 222481
+Hawkins Points: 188984
+Biden wins with Borda 
+
+Copeland: Washington D.C.
+Biden Points: 3
+Trump Points: 2
+Jorgensen Points: 1
+Hawkins Points: 0
+Biden wins with Copeland 
+
+2-Approval: Washington D.C.
+Biden Points: 343900
+Trump Points: 286724
+Jorgensen Points: 31427
+Hawkins Points: 26635
+Biden wins with 2-Approval 
+
+Veto: Washington D.C.
+Biden Points: 0
+Trump Points: -5262
+Jorgensen Points: -155345
+Hawkins Points: -183736
+Biden wins with Veto 
+
+Plurality w/ Runoff: Washington D.C.
+Hawkins removed after first round
+Biden wins with Plurality w/ Runoff
+
+STV: Washington D.C.
+Hawkins removed after first round
+Jorgensen removed after second round
+Trump removed after third round
+Biden wins with STV
+
+Plurality: Florida
+Trump Points: 5677264
+Biden Points: 5304838
+Jorgensen Points: 70935
+Hawkins Points: 14406
+Trump wins with Plurality 
+
+Borda: Florida
+Trump Points: 27691680
+Biden Points: 27304934
+Jorgensen Points: 9481533
+Hawkins Points: 1926511
+Trump wins with Borda 
+
+Copeland: Florida
+Trump Points: 2.5
+Biden Points: 2.5
+Jorgensen Points: 1
+Hawkins Points: 0
+Trump wins with Copeland 
+
+2-Approval: Florida
+Trump Points: 10947560
+Biden Points: 10933346
+Jorgensen Points: 211043
+Hawkins Points: 42937
+Trump wins with 2-Approval 
+
+Veto: Florida
+Trump Points: -587
+Biden Points: -693
+Jorgensen Points: -1867888
+Hawkins Points: -9198275
+Trump wins with Veto 
+
+Plurality w/ Runoff: Florida
+Hawkins removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: Florida
+Hawkins removed after first round
+Jorgensen removed after second round
+Biden removed after third round
+Trump wins with STV
+
+Plurality: Georgia
+Biden Points: 2474219
+Trump Points: 2462716
+Jorgensen Points: 62016
+Hawkins Points: 998
+Biden wins with Plurality 
+
+Borda: Georgia
+Biden Points: 12381422
+Trump Points: 12369207
+Jorgensen Points: 5165665
+Hawkins Points: 83400
+Biden wins with Borda 
+
+Copeland: Georgia
+Biden Points: 3
+Trump Points: 2
+Jorgensen Points: 1
+Hawkins Points: 0
+Biden wins with Copeland 
+
+2-Approval: Georgia
+Biden Points: 4907337
+Trump Points: 4906626
+Jorgensen Points: 182976
+Hawkins Points: 2959
+Biden wins with 2-Approval 
+
+Veto: Georgia
+Biden Points: -83
+Trump Points: -84
+Jorgensen Points: -79276
+Hawkins Points: -4920506
+Biden wins with Veto 
+
+Plurality w/ Runoff: Georgia
+Hawkins removed after first round
+Biden wins with Plurality w/ Runoff
+
+STV: Georgia
+Hawkins removed after first round
+Jorgensen removed after second round
+Trump removed after third round
+Biden wins with STV
+
+Plurality: Hawaii
+Biden Points: 367466
+Trump Points: 197600
+Jorgensen Points: 5533
+Hawkins Points: 3860
+Biden wins with Plurality 
+
+Borda: Hawaii
+Biden Points: 1508000
+Trump Points: 1323143
+Jorgensen Points: 362503
+Hawkins Points: 253108
+Biden wins with Borda 
+
+Copeland: Hawaii
+Biden Points: 3
+Trump Points: 2
+Jorgensen Points: 1
+Hawkins Points: 0
+Biden wins with Copeland 
+
+2-Approval: Hawaii
+Biden Points: 566200
+Trump Points: 551641
+Jorgensen Points: 18298
+Hawkins Points: 12779
+Biden wins with 2-Approval 
+
+Veto: Hawaii
+Biden Points: -125
+Trump Points: -557
+Jorgensen Points: -235787
+Hawkins Points: -337990
+Biden wins with Veto 
+
+Plurality w/ Runoff: Hawaii
+Hawkins removed after first round
+Biden wins with Plurality w/ Runoff
+
+STV: Hawaii
+Hawkins removed after first round
+Jorgensen removed after second round
+Trump removed after third round
+Biden wins with STV
+
+Plurality: Idaho
+Trump Points: 560584
+Biden Points: 290389
+Jorgensen Points: 16593
+Hawkins Points: 436
+Trump wins with Plurality 
+
+Borda: Idaho
+Trump Points: 2282181
+Biden Points: 1983979
+Jorgensen Points: 917509
+Hawkins Points: 24343
+Trump wins with Borda 
+
+Copeland: Idaho
+Trump Points: 2.5
+Biden Points: 2.5
+Jorgensen Points: 1
+Hawkins Points: 0
+Trump wins with Copeland 
+
+2-Approval: Idaho
+Trump Points: 853619
+Biden Points: 825717
+Jorgensen Points: 55205
+Hawkins Points: 1463
+Trump wins with 2-Approval 
+
+Veto: Idaho
+Trump Points: -24
+Biden Points: -129
+Jorgensen Points: -22291
+Hawkins Points: -845558
+Trump wins with Veto 
+
+Plurality w/ Runoff: Idaho
+Hawkins removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: Idaho
+Hawkins removed after first round
+Jorgensen removed after second round
+Biden removed after third round
+Trump wins with STV
+
+Plurality: Illinois
+Biden Points: 3482259
+Trump Points: 2454042
+Jorgensen Points: 66568
+Hawkins Points: 30861
+Biden wins with Plurality 
+
+Borda: Illinois
+Biden Points: 15440692
+Trump Points: 14327494
+Jorgensen Points: 4394952
+Hawkins Points: 2039242
+Biden wins with Borda 
+
+Copeland: Illinois
+Biden Points: 3
+Trump Points: 2
+Jorgensen Points: 1
+Hawkins Points: 0
+Biden wins with Copeland 
+
+2-Approval: Illinois
+Biden Points: 5926258
+Trump Points: 5843317
+Jorgensen Points: 203400
+Hawkins Points: 94485
+Biden wins with 2-Approval 
+
+Veto: Illinois
+Biden Points: -1555
+Trump Points: -3595
+Jorgensen Points: -1908746
+Hawkins Points: -4119834
+Biden wins with Veto 
+
+Plurality w/ Runoff: Illinois
+Hawkins removed after first round
+Biden wins with Plurality w/ Runoff
+
+STV: Illinois
+Hawkins removed after first round
+Jorgensen removed after second round
+Trump removed after third round
+Biden wins with STV
+
+Plurality: Indiana
+Trump Points: 1730174
+Biden Points: 1242861
+Jorgensen Points: 59167
+Hawkins Points: 907
+Trump wins with Plurality 
+
+Borda: Indiana
+Trump Points: 7729471
+Biden Points: 7194148
+Jorgensen Points: 3225283
+Hawkins Points: 49752
+Trump wins with Borda 
+
+Copeland: Indiana
+Trump Points: 2.5
+Biden Points: 2.5
+Jorgensen Points: 1
+Hawkins Points: 0
+Trump wins with Copeland 
+
+2-Approval: Indiana
+Trump Points: 2966268
+Biden Points: 2918357
+Jorgensen Points: 178831
+Hawkins Points: 2762
+Trump wins with 2-Approval 
+
+Veto: Indiana
+Trump Points: -80
+Biden Points: -179
+Jorgensen Points: -45824
+Hawkins Points: -2987026
+Trump wins with Veto 
+
+Plurality w/ Runoff: Indiana
+Hawkins removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: Indiana
+Hawkins removed after first round
+Jorgensen removed after second round
+Biden removed after third round
+Trump wins with STV
+
+Plurality: Iowa
+Trump Points: 903826
+Biden Points: 764228
+Jorgensen Points: 19745
+Hawkins Points: 3061
+Trump wins with Plurality 
+
+Borda: Iowa
+Trump Points: 4256046
+Biden Points: 4107063
+Jorgensen Points: 1542471
+Hawkins Points: 239580
+Trump wins with Borda 
+
+Copeland: Iowa
+Trump Points: 2.5
+Biden Points: 2.5
+Jorgensen Points: 1
+Hawkins Points: 0
+Trump wins with Copeland 
+
+2-Approval: Iowa
+Trump Points: 1661560
+Biden Points: 1652274
+Jorgensen Points: 58745
+Hawkins Points: 9141
+Trump wins with 2-Approval 
+
+Veto: Iowa
+Trump Points: -200
+Biden Points: -299
+Jorgensen Points: -226879
+Hawkins Points: -1463482
+Trump wins with Veto 
+
+Plurality w/ Runoff: Iowa
+Hawkins removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: Iowa
+Hawkins removed after first round
+Jorgensen removed after second round
+Biden removed after third round
+Trump wins with STV
+
+Plurality: Kansas
+Trump Points: 770983
+Biden Points: 570041
+Jorgensen Points: 30584
+Hawkins Points: 682
+Trump wins with Plurality 
+
+Borda: Kansas
+Trump Points: 3479968
+Biden Points: 3256391
+Jorgensen Points: 1464440
+Hawkins Points: 32941
+Trump wins with Borda 
+
+Copeland: Kansas
+Trump Points: 2.5
+Biden Points: 2.5
+Jorgensen Points: 1
+Hawkins Points: 0
+Trump wins with Copeland 
+
+2-Approval: Kansas
+Trump Points: 1336765
+Biden Points: 1314207
+Jorgensen Points: 91548
+Hawkins Points: 2060
+Trump wins with 2-Approval 
+
+Veto: Kansas
+Trump Points: -70
+Biden Points: -147
+Jorgensen Points: -29982
+Hawkins Points: -1342091
+Trump wins with Veto 
+
+Plurality w/ Runoff: Kansas
+Hawkins removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: Kansas
+Hawkins removed after first round
+Jorgensen removed after second round
+Biden removed after third round
+Trump wins with STV
+
+Plurality: Kentucky
+Trump Points: 1333384
+Biden Points: 776321
+Jorgensen Points: 26411
+Hawkins Points: 641
+Trump wins with Plurality 
+
+Borda: Kentucky
+Trump Points: 5581470
+Biden Points: 4987717
+Jorgensen Points: 2197692
+Hawkins Points: 53663
+Trump wins with Borda 
+
+Copeland: Kentucky
+Trump Points: 2.5
+Biden Points: 2.5
+Jorgensen Points: 1
+Hawkins Points: 0
+Trump wins with Copeland 
+
+2-Approval: Kentucky
+Trump Points: 2111355
+Biden Points: 2074746
+Jorgensen Points: 85329
+Hawkins Points: 2084
+Trump wins with 2-Approval 
+
+Veto: Kentucky
+Trump Points: -26
+Biden Points: -107
+Jorgensen Points: -50805
+Hawkins Points: -2085819
+Trump wins with Veto 
+
+Plurality w/ Runoff: Kentucky
+Hawkins removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: Kentucky
+Hawkins removed after first round
+Jorgensen removed after second round
+Biden removed after third round
+Trump wins with STV
+
+Plurality: Louisiana
+Trump Points: 1264354
+Biden Points: 861863
+Jorgensen Points: 21843
+Hawkins Points: 0
+Trump wins with Plurality 
+
+Borda: Louisiana
+Trump Points: 5536983
+Biden Points: 5113741
+Jorgensen Points: 2237636
+Hawkins Points: 0
+Trump wins with Borda 
+
+Copeland: Louisiana
+Trump Points: 2.5
+Biden Points: 2.5
+Jorgensen Points: 1
+Hawkins Points: 0
+Trump wins with Copeland 
+
+2-Approval: Louisiana
+Trump Points: 2124569
+Biden Points: 2103818
+Jorgensen Points: 67733
+Hawkins Points: 0
+Trump wins with 2-Approval 
+
+Veto: Louisiana
+Trump Points: 0
+Biden Points: 0
+Jorgensen Points: 0
+Hawkins Points: -2148060
+Trump wins with Veto 
+
+Plurality w/ Runoff: Louisiana
+Hawkins removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: Louisiana
+Hawkins removed after first round
+Jorgensen removed after second round
+Biden removed after third round
+Trump wins with STV
+
+Plurality: Maine
+Biden Points: 435746
+Trump Points: 361303
+Jorgensen Points: 14197
+Hawkins Points: 8205
+Biden wins with Plurality 
+
+Borda: Maine
+Biden Points: 2045894
+Trump Points: 1961181
+Jorgensen Points: 576125
+Hawkins Points: 333506
+Biden wins with Borda 
+
+Copeland: Maine
+Biden Points: 3
+Trump Points: 2
+Jorgensen Points: 1
+Hawkins Points: 0
+Biden wins with Copeland 
+
+2-Approval: Maine
+Biden Points: 791470
+Trump Points: 781630
+Jorgensen Points: 41661
+Hawkins Points: 24141
+Biden wins with 2-Approval 
+
+Veto: Maine
+Biden Points: -773
+Trump Points: -1203
+Jorgensen Points: -299184
+Hawkins Points: -518291
+Biden wins with Veto 
+
+Plurality w/ Runoff: Maine
+Hawkins removed after first round
+Biden wins with Plurality w/ Runoff
+
+STV: Maine
+Hawkins removed after first round
+Jorgensen removed after second round
+Trump removed after third round
+Biden wins with STV
+
+Plurality: Maine1
+Biden Points: 266779
+Trump Points: 164300
+Jorgensen Points: 7365
+Hawkins Points: 4656
+Biden wins with Plurality 
+
+Borda: Maine1
+Biden Points: 1140917
+Trump Points: 1023855
+Jorgensen Points: 302335
+Hawkins Points: 191493
+Biden wins with Borda 
+
+Copeland: Maine1
+Biden Points: 3
+Trump Points: 2
+Jorgensen Points: 1
+Hawkins Points: 0
+Biden wins with Copeland 
+
+2-Approval: Maine1
+Biden Points: 431337
+Trump Points: 417405
+Jorgensen Points: 22929
+Hawkins Points: 14529
+Biden wins with 2-Approval 
+
+Veto: Maine1
+Biden Points: -299
+Trump Points: -950
+Jorgensen Points: -171059
+Hawkins Points: -270792
+Biden wins with Veto 
+
+Plurality w/ Runoff: Maine1
+Hawkins removed after first round
+Biden wins with Plurality w/ Runoff
+
+STV: Maine1
+Hawkins removed after first round
+Jorgensen removed after second round
+Trump removed after third round
+Biden wins with STV
+
+Plurality: Maine2
+Trump Points: 196992
+Biden Points: 168946
+Jorgensen Points: 6819
+Hawkins Points: 3579
+Trump wins with Plurality 
+
+Borda: Maine2
+Trump Points: 935956
+Biden Points: 904010
+Jorgensen Points: 273995
+Hawkins Points: 144055
+Trump wins with Borda 
+
+Copeland: Maine2
+Trump Points: 2.5
+Biden Points: 2.5
+Jorgensen Points: 1
+Hawkins Points: 0
+Trump wins with Copeland 
+
+2-Approval: Maine2
+Trump Points: 362993
+Biden Points: 359253
+Jorgensen Points: 19934
+Hawkins Points: 10492
+Trump wins with 2-Approval 
+
+Veto: Maine2
+Trump Points: -365
+Biden Points: -525
+Jorgensen Points: -129094
+Hawkins Points: -246352
+Trump wins with Veto 
+
+Plurality w/ Runoff: Maine2
+Hawkins removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: Maine2
+Hawkins removed after first round
+Jorgensen removed after second round
+Biden removed after third round
+Trump wins with STV
+
+Plurality: Maryland
+Biden Points: 2002422
+Trump Points: 984971
+Jorgensen Points: 33697
+Hawkins Points: 15929
+Biden wins with Plurality 
+
+Borda: Maryland
+Biden Points: 8035499
+Trump Points: 6926568
+Jorgensen Points: 2212903
+Hawkins Points: 1047144
+Biden wins with Borda 
+
+Copeland: Maryland
+Biden Points: 3
+Trump Points: 2
+Jorgensen Points: 1
+Hawkins Points: 0
+Biden wins with Copeland 
+
+2-Approval: Maryland
+Biden Points: 2996599
+Trump Points: 2907580
+Jorgensen Points: 115274
+Hawkins Points: 54585
+Biden wins with 2-Approval 
+
+Veto: Maryland
+Biden Points: -541
+Trump Points: -3002
+Jorgensen Points: -973087
+Hawkins Points: -2060389
+Biden wins with Veto 
+
+Plurality w/ Runoff: Maryland
+Hawkins removed after first round
+Biden wins with Plurality w/ Runoff
+
+STV: Maryland
+Hawkins removed after first round
+Jorgensen removed after second round
+Trump removed after third round
+Biden wins with STV
+
+Plurality: Massachusetts
+Biden Points: 2393205
+Trump Points: 1172524
+Jorgensen Points: 47058
+Hawkins Points: 18603
+Biden wins with Plurality 
+
+Borda: Massachusetts
+Biden Points: 9602019
+Trump Points: 8260058
+Jorgensen Points: 2812646
+Hawkins Points: 1113617
+Biden wins with Borda 
+
+Copeland: Massachusetts
+Biden Points: 3
+Trump Points: 2
+Jorgensen Points: 1
+Hawkins Points: 0
+Biden wins with Copeland 
+
+2-Approval: Massachusetts
+Biden Points: 3578161
+Trump Points: 3460241
+Jorgensen Points: 160700
+Hawkins Points: 63678
+Biden wins with 2-Approval 
+
+Veto: Massachusetts
+Biden Points: -737
+Trump Points: -4097
+Jorgensen Points: -1026502
+Hawkins Points: -2600054
+Biden wins with Veto 
+
+Plurality w/ Runoff: Massachusetts
+Hawkins removed after first round
+Biden wins with Plurality w/ Runoff
+
+STV: Massachusetts
+Hawkins removed after first round
+Jorgensen removed after second round
+Trump removed after third round
+Biden wins with STV
+
+Plurality: Michigan
+Biden Points: 2809612
+Trump Points: 2655310
+Jorgensen Points: 60497
+Hawkins Points: 13873
+Biden wins with Plurality 
+
+Borda: Michigan
+Biden Points: 13782456
+Trump Points: 13617845
+Jorgensen Points: 4745996
+Hawkins Points: 1089455
+Biden wins with Borda 
+
+Copeland: Michigan
+Biden Points: 3
+Trump Points: 2
+Jorgensen Points: 1
+Hawkins Points: 0
+Biden wins with Copeland 
+
+2-Approval: Michigan
+Biden Points: 5434525
+Trump Points: 5424358
+Jorgensen Points: 178619
+Hawkins Points: 41082
+Biden wins with 2-Approval 
+
+Veto: Michigan
+Biden Points: -973
+Trump Points: -1115
+Jorgensen Points: -1032412
+Hawkins Points: -4504792
+Biden wins with Veto 
+
+Plurality w/ Runoff: Michigan
+Hawkins removed after first round
+Biden wins with Plurality w/ Runoff
+
+STV: Michigan
+Hawkins removed after first round
+Jorgensen removed after second round
+Trump removed after third round
+Biden wins with STV
+
+Plurality: Minnesota
+Biden Points: 1733529
+Trump Points: 1497980
+Jorgensen Points: 35396
+Hawkins Points: 10253
+Biden wins with Plurality 
+
+Borda: Minnesota
+Biden Points: 8227490
+Trump Points: 7975531
+Jorgensen Points: 2682212
+Hawkins Points: 777715
+Biden wins with Borda 
+
+Copeland: Minnesota
+Biden Points: 3
+Trump Points: 2
+Jorgensen Points: 1
+Hawkins Points: 0
+Biden wins with Copeland 
+
+2-Approval: Minnesota
+Biden Points: 3217442
+Trump Points: 3201300
+Jorgensen Points: 105061
+Hawkins Points: 30513
+Biden wins with 2-Approval 
+
+Veto: Minnesota
+Biden Points: -639
+Trump Points: -907
+Jorgensen Points: -735403
+Hawkins Points: -2540209
+Biden wins with Veto 
+
+Plurality w/ Runoff: Minnesota
+Hawkins removed after first round
+Biden wins with Plurality w/ Runoff
+
+STV: Minnesota
+Hawkins removed after first round
+Jorgensen removed after second round
+Trump removed after third round
+Biden wins with STV
+
+Plurality: Mississippi
+Trump Points: 761443
+Biden Points: 542792
+Jorgensen Points: 8061
+Hawkins Points: 1452
+Trump wins with Plurality 
+
+Borda: Mississippi
+Trump Points: 3378234
+Biden Points: 3151515
+Jorgensen Points: 1146026
+Hawkins Points: 206713
+Trump wins with Borda 
+
+Copeland: Mississippi
+Trump Points: 2.5
+Biden Points: 2.5
+Jorgensen Points: 1
+Hawkins Points: 0
+Trump wins with Copeland 
+
+2-Approval: Mississippi
+Trump Points: 1303081
+Biden Points: 1295067
+Jorgensen Points: 24861
+Hawkins Points: 4487
+Trump wins with 2-Approval 
+
+Veto: Mississippi
+Trump Points: -38
+Biden Points: -92
+Jorgensen Points: -200644
+Hawkins Points: -1112974
+Trump wins with Veto 
+
+Plurality w/ Runoff: Mississippi
+Hawkins removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: Mississippi
+Hawkins removed after first round
+Jorgensen removed after second round
+Biden removed after third round
+Trump wins with STV
+
+Plurality: Missouri
+Trump Points: 1721498
+Biden Points: 1255056
+Jorgensen Points: 41216
+Hawkins Points: 8180
+Trump wins with Plurality 
+
+Borda: Missouri
+Trump Points: 7716905
+Biden Points: 7211973
+Jorgensen Points: 2691691
+Hawkins Points: 535131
+Trump wins with Borda 
+
+Copeland: Missouri
+Trump Points: 2.5
+Biden Points: 2.5
+Jorgensen Points: 1
+Hawkins Points: 0
+Trump wins with Copeland 
+
+2-Approval: Missouri
+Trump Points: 2969984
+Biden Points: 2932093
+Jorgensen Points: 124935
+Hawkins Points: 24888
+Trump wins with 2-Approval 
+
+Veto: Missouri
+Trump Points: -527
+Biden Points: -1126
+Jorgensen Points: -500410
+Hawkins Points: -2523887
+Trump wins with Veto 
+
+Plurality w/ Runoff: Missouri
+Hawkins removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: Missouri
+Hawkins removed after first round
+Jorgensen removed after second round
+Biden removed after third round
+Trump wins with STV
+
+Plurality: Montana
+Trump Points: 343610
+Biden Points: 244789
+Jorgensen Points: 15272
+Hawkins Points: 0
+Trump wins with Plurality 
+
+Borda: Montana
+Trump Points: 1534182
+Biden Points: 1423033
+Jorgensen Points: 664811
+Hawkins Points: 0
+Trump wins with Borda 
+
+Copeland: Montana
+Trump Points: 2.5
+Biden Points: 2.5
+Jorgensen Points: 1
+Hawkins Points: 0
+Trump wins with Copeland 
+
+2-Approval: Montana
+Trump Points: 586901
+Biden Points: 574573
+Jorgensen Points: 45868
+Hawkins Points: 0
+Trump wins with 2-Approval 
+
+Veto: Montana
+Trump Points: 0
+Biden Points: 0
+Jorgensen Points: 0
+Hawkins Points: -603671
+Trump wins with Veto 
+
+Plurality w/ Runoff: Montana
+Hawkins removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: Montana
+Hawkins removed after first round
+Jorgensen removed after second round
+Biden removed after third round
+Trump wins with STV
+
+Plurality: Nebraska
+Trump Points: 559547
+Biden Points: 376459
+Jorgensen Points: 20374
+Hawkins Points: 0
+Trump wins with Plurality 
+
+Borda: Nebraska
+Trump Points: 2450887
+Biden Points: 2248310
+Jorgensen Points: 1039083
+Hawkins Points: 0
+Trump wins with Borda 
+
+Copeland: Nebraska
+Trump Points: 2.5
+Biden Points: 2.5
+Jorgensen Points: 1
+Hawkins Points: 0
+Trump wins with Copeland 
+
+2-Approval: Nebraska
+Trump Points: 934960
+Biden Points: 915471
+Jorgensen Points: 62329
+Hawkins Points: 0
+Trump wins with 2-Approval 
+
+Veto: Nebraska
+Trump Points: 0
+Biden Points: 0
+Jorgensen Points: 0
+Hawkins Points: -956380
+Trump wins with Veto 
+
+Plurality w/ Runoff: Nebraska
+Hawkins removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: Nebraska
+Hawkins removed after first round
+Jorgensen removed after second round
+Biden removed after third round
+Trump wins with STV
+
+Plurality: Nebraska1
+Trump Points: 181321
+Biden Points: 133020
+Jorgensen Points: 7541
+Hawkins Points: 0
+Trump wins with Plurality 
+
+Borda: Nebraska1
+Trump Points: 816582
+Biden Points: 762704
+Jorgensen Points: 352006
+Hawkins Points: 0
+Trump wins with Borda 
+
+Copeland: Nebraska1
+Trump Points: 2.5
+Biden Points: 2.5
+Jorgensen Points: 1
+Hawkins Points: 0
+Trump wins with Copeland 
+
+2-Approval: Nebraska1
+Trump Points: 313379
+Biden Points: 307802
+Jorgensen Points: 22583
+Hawkins Points: 0
+Trump wins with 2-Approval 
+
+Veto: Nebraska1
+Trump Points: 0
+Biden Points: 0
+Jorgensen Points: 0
+Hawkins Points: -321882
+Trump wins with Veto 
+
+Plurality w/ Runoff: Nebraska1
+Hawkins removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: Nebraska1
+Hawkins removed after first round
+Jorgensen removed after second round
+Biden removed after third round
+Trump wins with STV
+
+Plurality: Nebraska2
+Biden Points: 177467
+Trump Points: 155262
+Jorgensen Points: 6933
+Hawkins Points: 0
+Biden wins with Plurality 
+
+Borda: Nebraska2
+Biden Points: 847718
+Trump Points: 823301
+Jorgensen Points: 366953
+Hawkins Points: 0
+Biden wins with Borda 
+
+Copeland: Nebraska2
+Biden Points: 3
+Trump Points: 2
+Jorgensen Points: 1
+Hawkins Points: 0
+Biden wins with Copeland 
+
+2-Approval: Nebraska2
+Biden Points: 330589
+Trump Points: 328377
+Jorgensen Points: 20358
+Hawkins Points: 0
+Biden wins with 2-Approval 
+
+Veto: Nebraska2
+Biden Points: 0
+Trump Points: 0
+Jorgensen Points: 0
+Hawkins Points: -339662
+Biden wins with Veto 
+
+Plurality w/ Runoff: Nebraska2
+Hawkins removed after first round
+Biden wins with Plurality w/ Runoff
+
+STV: Nebraska2
+Hawkins removed after first round
+Jorgensen removed after second round
+Trump removed after third round
+Biden wins with STV
+
+Plurality: Nebraska3
+Trump Points: 222875
+Biden Points: 66069
+Jorgensen Points: 5884
+Hawkins Points: 0
+Trump wins with Plurality 
+
+Borda: Nebraska3
+Trump Points: 809487
+Biden Points: 632957
+Jorgensen Points: 326524
+Hawkins Points: 0
+Trump wins with Borda 
+
+Copeland: Nebraska3
+Trump Points: 2.5
+Biden Points: 2.5
+Jorgensen Points: 1
+Hawkins Points: 0
+Trump wins with Copeland 
+
+2-Approval: Nebraska3
+Trump Points: 291784
+Biden Points: 272060
+Jorgensen Points: 25812
+Hawkins Points: 0
+Trump wins with 2-Approval 
+
+Veto: Nebraska3
+Trump Points: 0
+Biden Points: 0
+Jorgensen Points: 0
+Hawkins Points: -294828
+Trump wins with Veto 
+
+Plurality w/ Runoff: Nebraska3
+Hawkins removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: Nebraska3
+Hawkins removed after first round
+Jorgensen removed after second round
+Biden removed after third round
+Trump wins with STV
+
+Plurality: Nevada
+Biden Points: 712219
+Trump Points: 678216
+Jorgensen Points: 14938
+Hawkins Points: 0
+Biden wins with Plurality 
+
+Borda: Nevada
+Biden Points: 3501746
+Trump Points: 3465961
+Jorgensen Points: 1464531
+Hawkins Points: 0
+Biden wins with Borda 
+
+Copeland: Nevada
+Biden Points: 3
+Trump Points: 2
+Jorgensen Points: 1
+Hawkins Points: 0
+Biden wins with Copeland 
+
+2-Approval: Nevada
+Biden Points: 1384154
+Trump Points: 1382372
+Jorgensen Points: 44220
+Hawkins Points: 0
+Biden wins with 2-Approval 
+
+Veto: Nevada
+Biden Points: 0
+Trump Points: 0
+Jorgensen Points: 0
+Hawkins Points: -1405373
+Biden wins with Veto 
+
+Plurality w/ Runoff: Nevada
+Hawkins removed after first round
+Biden wins with Plurality w/ Runoff
+
+STV: Nevada
+Hawkins removed after first round
+Jorgensen removed after second round
+Trump removed after third round
+Biden wins with STV
+
+Plurality: New Hampshire
+Biden Points: 426055
+Trump Points: 366646
+Jorgensen Points: 13252
+Hawkins Points: 239
+Biden wins with Plurality 
+
+Borda: New Hampshire
+Biden Points: 2020917
+Trump Points: 1956619
+Jorgensen Points: 844160
+Hawkins Points: 15456
+Biden wins with Borda 
+
+Copeland: New Hampshire
+Biden Points: 3
+Trump Points: 2
+Jorgensen Points: 1
+Hawkins Points: 0
+Biden wins with Copeland 
+
+2-Approval: New Hampshire
+Biden Points: 788690
+Trump Points: 783811
+Jorgensen Points: 39168
+Hawkins Points: 715
+Biden wins with 2-Approval 
+
+Veto: New Hampshire
+Biden Points: -20
+Trump Points: -30
+Jorgensen Points: -14452
+Hawkins Points: -791690
+Biden wins with Veto 
+
+Plurality w/ Runoff: New Hampshire
+Hawkins removed after first round
+Biden wins with Plurality w/ Runoff
+
+STV: New Hampshire
+Hawkins removed after first round
+Jorgensen removed after second round
+Trump removed after third round
+Biden wins with STV
+
+Plurality: New Jersey
+Biden Points: 2614940
+Trump Points: 1888340
+Jorgensen Points: 31925
+Hawkins Points: 14137
+Biden wins with Plurality 
+
+Borda: New Jersey
+Biden Points: 11661039
+Trump Points: 10896897
+Jorgensen Points: 3283516
+Hawkins Points: 1454600
+Biden wins with Borda 
+
+Copeland: New Jersey
+Biden Points: 3
+Trump Points: 2
+Jorgensen Points: 1
+Hawkins Points: 0
+Biden wins with Copeland 
+
+2-Approval: New Jersey
+Biden Points: 4497223
+Trump Points: 4460239
+Jorgensen Points: 97839
+Hawkins Points: 43383
+Biden wins with 2-Approval 
+
+Veto: New Jersey
+Biden Points: -466
+Trump Points: -1024
+Jorgensen Points: -1395590
+Hawkins Points: -3152262
+Biden wins with Veto 
+
+Plurality w/ Runoff: New Jersey
+Hawkins removed after first round
+Biden wins with Plurality w/ Runoff
+
+STV: New Jersey
+Hawkins removed after first round
+Jorgensen removed after second round
+Trump removed after third round
+Biden wins with STV
+
+Plurality: New Mexico
+Biden Points: 503480
+Trump Points: 403414
+Jorgensen Points: 12610
+Hawkins Points: 4448
+Biden wins with Plurality 
+
+Borda: New Mexico
+Biden Points: 2330189
+Trump Points: 2220823
+Jorgensen Points: 733503
+Hawkins Points: 259197
+Biden wins with Borda 
+
+Copeland: New Mexico
+Biden Points: 3
+Trump Points: 2
+Jorgensen Points: 1
+Hawkins Points: 0
+Biden wins with Copeland 
+
+2-Approval: New Mexico
+Biden Points: 903075
+Trump Points: 893998
+Jorgensen Points: 37544
+Hawkins Points: 13287
+Biden wins with 2-Approval 
+
+Veto: New Mexico
+Biden Points: -318
+Trump Points: -541
+Jorgensen Points: -240603
+Hawkins Points: -682490
+Biden wins with Veto 
+
+Plurality w/ Runoff: New Mexico
+Hawkins removed after first round
+Biden wins with Plurality w/ Runoff
+
+STV: New Mexico
+Hawkins removed after first round
+Jorgensen removed after second round
+Trump removed after third round
+Biden wins with STV
+
+Plurality: New York
+Biden Points: 5247073
+Trump Points: 3254634
+Jorgensen Points: 60347
+Hawkins Points: 32758
+Biden wins with Plurality 
+
+Borda: New York
+Biden Points: 22343109
+Trump Points: 20237788
+Jorgensen Points: 5824904
+Hawkins Points: 3163071
+Biden wins with Borda 
+
+Copeland: New York
+Biden Points: 3
+Trump Points: 2
+Jorgensen Points: 1
+Hawkins Points: 0
+Biden wins with Copeland 
+
+2-Approval: New York
+Biden Points: 8502138
+Trump Points: 8391236
+Jorgensen Points: 191947
+Hawkins Points: 104303
+Biden wins with 2-Approval 
+
+Veto: New York
+Biden Points: -914
+Trump Points: -2894
+Jorgensen Points: -3022202
+Hawkins Points: -5568802
+Biden wins with Veto 
+
+Plurality w/ Runoff: New York
+Hawkins removed after first round
+Biden wins with Plurality w/ Runoff
+
+STV: New York
+Hawkins removed after first round
+Jorgensen removed after second round
+Trump removed after third round
+Biden wins with STV
+
+Plurality: North Carolina
+Trump Points: 2769055
+Biden Points: 2694739
+Jorgensen Points: 48801
+Hawkins Points: 12198
+Trump wins with Plurality 
+
+Borda: North Carolina
+Trump Points: 13729644
+Biden Points: 13651238
+Jorgensen Points: 4613793
+Hawkins Points: 1154083
+Trump wins with Borda 
+
+Copeland: North Carolina
+Trump Points: 2.5
+Biden Points: 2.5
+Jorgensen Points: 1
+Hawkins Points: 0
+Trump wins with Copeland 
+
+2-Approval: North Carolina
+Trump Points: 5436514
+Biden Points: 5432474
+Jorgensen Points: 144416
+Hawkins Points: 36182
+Trump wins with 2-Approval 
+
+Veto: North Carolina
+Trump Points: -718
+Biden Points: -768
+Jorgensen Points: -1104217
+Hawkins Points: -4419090
+Trump wins with Veto 
+
+Plurality w/ Runoff: North Carolina
+Hawkins removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: North Carolina
+Hawkins removed after first round
+Jorgensen removed after second round
+Biden removed after third round
+Trump wins with STV
+
+Plurality: North Dakota
+Trump Points: 236835
+Biden Points: 115525
+Jorgensen Points: 9456
+Hawkins Points: 0
+Trump wins with Plurality 
+
+Borda: North Dakota
+Trump Points: 952931
+Biden Points: 814880
+Jorgensen Points: 403085
+Hawkins Points: 0
+Trump wins with Borda 
+
+Copeland: North Dakota
+Trump Points: 2.5
+Biden Points: 2.5
+Jorgensen Points: 1
+Hawkins Points: 0
+Trump wins with Copeland 
+
+2-Approval: North Dakota
+Trump Points: 354280
+Biden Points: 337539
+Jorgensen Points: 31813
+Hawkins Points: 0
+Trump wins with 2-Approval 
+
+Veto: North Dakota
+Trump Points: 0
+Biden Points: 0
+Jorgensen Points: 0
+Hawkins Points: -361816
+Trump wins with Veto 
+
+Plurality w/ Runoff: North Dakota
+Hawkins removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: North Dakota
+Hawkins removed after first round
+Jorgensen removed after second round
+Biden removed after third round
+Trump wins with STV
+
+Plurality: Ohio
+Trump Points: 3155702
+Biden Points: 2680005
+Jorgensen Points: 67531
+Hawkins Points: 18954
+Trump wins with Plurality 
+
+Borda: Ohio
+Trump Points: 14887419
+Biden Points: 14376954
+Jorgensen Points: 4893818
+Hawkins Points: 1374961
+Trump wins with Borda 
+
+Copeland: Ohio
+Trump Points: 2.5
+Biden Points: 2.5
+Jorgensen Points: 1
+Hawkins Points: 0
+Trump wins with Copeland 
+
+2-Approval: Ohio
+Trump Points: 5810749
+Biden Points: 5776568
+Jorgensen Points: 200603
+Hawkins Points: 56464
+Trump wins with 2-Approval 
+
+Veto: Ohio
+Trump Points: -1224
+Biden Points: -1811
+Jorgensen Points: -1296508
+Hawkins Points: -4622649
+Trump wins with Veto 
+
+Plurality w/ Runoff: Ohio
+Hawkins removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: Ohio
+Hawkins removed after first round
+Jorgensen removed after second round
+Biden removed after third round
+Trump wins with STV
+
+Plurality: Oklahoma
+Trump Points: 1028041
+Biden Points: 507808
+Jorgensen Points: 24847
+Hawkins Points: 0
+Trump wins with Plurality 
+
+Borda: Oklahoma
+Trump Points: 4129234
+Biden Points: 3564611
+Jorgensen Points: 1670331
+Hawkins Points: 0
+Trump wins with Borda 
+
+Copeland: Oklahoma
+Trump Points: 2.5
+Biden Points: 2.5
+Jorgensen Points: 1
+Hawkins Points: 0
+Trump wins with Copeland 
+
+2-Approval: Oklahoma
+Trump Points: 1540497
+Biden Points: 1496107
+Jorgensen Points: 84788
+Hawkins Points: 0
+Trump wins with 2-Approval 
+
+Veto: Oklahoma
+Trump Points: 0
+Biden Points: 0
+Jorgensen Points: 0
+Hawkins Points: -1560696
+Trump wins with Veto 
+
+Plurality w/ Runoff: Oklahoma
+Hawkins removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: Oklahoma
+Hawkins removed after first round
+Jorgensen removed after second round
+Biden removed after third round
+Trump wins with STV
+
+Plurality: Oregon
+Biden Points: 1352883
+Trump Points: 967508
+Jorgensen Points: 41936
+Hawkins Points: 11981
+Biden wins with Plurality 
+
+Borda: Oregon
+Biden Points: 6040711
+Trump Points: 5610921
+Jorgensen Points: 2016712
+Hawkins Points: 577504
+Biden wins with Borda 
+
+Copeland: Oregon
+Biden Points: 3
+Trump Points: 2
+Jorgensen Points: 1
+Hawkins Points: 0
+Biden wins with Copeland 
+
+2-Approval: Oregon
+Biden Points: 2314496
+Trump Points: 2271274
+Jorgensen Points: 126540
+Hawkins Points: 36306
+Biden wins with 2-Approval 
+
+Veto: Oregon
+Biden Points: -976
+Trump Points: -2169
+Jorgensen Points: -526072
+Hawkins Points: -1845091
+Biden wins with Veto 
+
+Plurality w/ Runoff: Oregon
+Hawkins removed after first round
+Biden wins with Plurality w/ Runoff
+
+STV: Oregon
+Hawkins removed after first round
+Jorgensen removed after second round
+Trump removed after third round
+Biden wins with STV
+
+Plurality: Pennsylvania
+Biden Points: 3458332
+Trump Points: 3377423
+Jorgensen Points: 79525
+Hawkins Points: 0
+Biden wins with Plurality 
+
+Borda: Pennsylvania
+Biden Points: 17173681
+Trump Points: 17088193
+Jorgensen Points: 7229806
+Hawkins Points: 0
+Biden wins with Borda 
+
+Copeland: Pennsylvania
+Biden Points: 3
+Trump Points: 2
+Jorgensen Points: 1
+Hawkins Points: 0
+Biden wins with Copeland 
+
+2-Approval: Pennsylvania
+Biden Points: 6800069
+Trump Points: 6795490
+Jorgensen Points: 235001
+Hawkins Points: 0
+Biden wins with 2-Approval 
+
+Veto: Pennsylvania
+Biden Points: 0
+Trump Points: 0
+Jorgensen Points: 0
+Hawkins Points: -6915280
+Biden wins with Veto 
+
+Plurality w/ Runoff: Pennsylvania
+Hawkins removed after first round
+Biden wins with Plurality w/ Runoff
+
+STV: Pennsylvania
+Hawkins removed after first round
+Jorgensen removed after second round
+Trump removed after third round
+Biden wins with STV
+
+Plurality: Rhode Island
+Biden Points: 310664
+Trump Points: 201965
+Jorgensen Points: 5125
+Hawkins Points: 0
+Biden wins with Plurality 
+
+Borda: Rhode Island
+Biden Points: 1340875
+Trump Points: 1226677
+Jorgensen Points: 538972
+Hawkins Points: 0
+Biden wins with Borda 
+
+Copeland: Rhode Island
+Biden Points: 3
+Trump Points: 2
+Jorgensen Points: 1
+Hawkins Points: 0
+Biden wins with Copeland 
+
+2-Approval: Rhode Island
+Biden Points: 512457
+Trump Points: 506958
+Jorgensen Points: 16093
+Hawkins Points: 0
+Biden wins with 2-Approval 
+
+Veto: Rhode Island
+Biden Points: 0
+Trump Points: 0
+Jorgensen Points: 0
+Hawkins Points: -517754
+Biden wins with Veto 
+
+Plurality w/ Runoff: Rhode Island
+Hawkins removed after first round
+Biden wins with Plurality w/ Runoff
+
+STV: Rhode Island
+Hawkins removed after first round
+Jorgensen removed after second round
+Trump removed after third round
+Biden wins with STV
+
+Plurality: South Carolina
+Trump Points: 1386202
+Biden Points: 1092410
+Jorgensen Points: 27916
+Hawkins Points: 6789
+Trump wins with Plurality 
+
+Borda: South Carolina
+Trump Points: 6370382
+Biden Points: 6056186
+Jorgensen Points: 2133828
+Hawkins Points: 519506
+Trump wins with Borda 
+
+Copeland: South Carolina
+Trump Points: 2.5
+Biden Points: 2.5
+Jorgensen Points: 1
+Hawkins Points: 0
+Trump wins with Copeland 
+
+2-Approval: South Carolina
+Trump Points: 2471253
+Biden Points: 2451152
+Jorgensen Points: 83792
+Hawkins Points: 20437
+Trump wins with 2-Approval 
+
+Veto: South Carolina
+Trump Points: -390
+Biden Points: -693
+Jorgensen Points: -491197
+Hawkins Points: -2021037
+Trump wins with Veto 
+
+Plurality w/ Runoff: South Carolina
+Hawkins removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: South Carolina
+Hawkins removed after first round
+Jorgensen removed after second round
+Biden removed after third round
+Trump wins with STV
+
+Plurality: South Dakota
+Trump Points: 261018
+Biden Points: 150475
+Jorgensen Points: 11112
+Hawkins Points: 0
+Trump wins with Plurality 
+
+Borda: South Dakota
+Trump Points: 1096020
+Biden Points: 970685
+Jorgensen Points: 468925
+Hawkins Points: 0
+Trump wins with Borda 
+
+Copeland: South Dakota
+Trump Points: 2.5
+Biden Points: 2.5
+Jorgensen Points: 1
+Hawkins Points: 0
+Trump wins with Copeland 
+
+2-Approval: South Dakota
+Trump Points: 412397
+Biden Points: 397605
+Jorgensen Points: 35208
+Hawkins Points: 0
+Trump wins with 2-Approval 
+
+Veto: South Dakota
+Trump Points: 0
+Biden Points: 0
+Jorgensen Points: 0
+Hawkins Points: -422605
+Trump wins with Veto 
+
+Plurality w/ Runoff: South Dakota
+Hawkins removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: South Dakota
+Hawkins removed after first round
+Jorgensen removed after second round
+Biden removed after third round
+Trump wins with STV
+
+Plurality: Tennessee
+Trump Points: 1866651
+Biden Points: 1152424
+Jorgensen Points: 30154
+Hawkins Points: 4613
+Trump wins with Plurality 
+
+Borda: Tennessee
+Trump Points: 7939757
+Biden Points: 7183328
+Jorgensen Points: 2774887
+Hawkins Points: 425080
+Trump wins with Borda 
+
+Copeland: Tennessee
+Trump Points: 2.5
+Biden Points: 2.5
+Jorgensen Points: 1
+Hawkins Points: 0
+Trump wins with Copeland 
+
+2-Approval: Tennessee
+Trump Points: 3019442
+Biden Points: 2977638
+Jorgensen Points: 95892
+Hawkins Points: 14712
+Trump wins with 2-Approval 
+
+Veto: Tennessee
+Trump Points: -178
+Biden Points: -576
+Jorgensen Points: -405001
+Hawkins Points: -2648087
+Trump wins with Veto 
+
+Plurality w/ Runoff: Tennessee
+Hawkins removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: Tennessee
+Hawkins removed after first round
+Jorgensen removed after second round
+Biden removed after third round
+Trump wins with STV
+
+Plurality: Texas
+Trump Points: 5892972
+Biden Points: 5261340
+Jorgensen Points: 126777
+Hawkins Points: 33956
+Trump wins with Plurality 
+
+Borda: Texas
+Trump Points: 28304858
+Biden Points: 27628456
+Jorgensen Points: 9429074
+Hawkins Points: 2527882
+Trump wins with Borda 
+
+Copeland: Texas
+Trump Points: 2.5
+Biden Points: 2.5
+Jorgensen Points: 1
+Hawkins Points: 0
+Trump wins with Copeland 
+
+2-Approval: Texas
+Trump Points: 11099128
+Biden Points: 11055071
+Jorgensen Points: 375131
+Hawkins Points: 100760
+Trump wins with 2-Approval 
+
+Veto: Texas
+Trump Points: -2287
+Biden Points: -3000
+Jorgensen Points: -2387879
+Hawkins Points: -8921879
+Trump wins with Veto 
+
+Plurality w/ Runoff: Texas
+Hawkins removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: Texas
+Hawkins removed after first round
+Jorgensen removed after second round
+Biden removed after third round
+Trump wins with STV
+
+Plurality: Utah
+Trump Points: 876534
+Biden Points: 567718
+Jorgensen Points: 38900
+Hawkins Points: 5124
+Trump wins with Plurality 
+
+Borda: Utah
+Trump Points: 3807915
+Biden Points: 3452822
+Jorgensen Points: 1473668
+Hawkins Points: 195251
+Trump wins with Borda 
+
+Copeland: Utah
+Trump Points: 2.5
+Biden Points: 2.5
+Jorgensen Points: 1
+Hawkins Points: 0
+Trump wins with Copeland 
+
+2-Approval: Utah
+Trump Points: 1443655
+Biden Points: 1398365
+Jorgensen Points: 118765
+Hawkins Points: 15767
+Trump wins with 2-Approval 
+
+Veto: Utah
+Trump Points: -550
+Biden Points: -1537
+Jorgensen Points: -172273
+Hawkins Points: -1313916
+Trump wins with Veto 
+
+Plurality w/ Runoff: Utah
+Hawkins removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: Utah
+Hawkins removed after first round
+Jorgensen removed after second round
+Biden removed after third round
+Trump wins with STV
+
+Plurality: Vermont
+Biden Points: 247533
+Trump Points: 114870
+Jorgensen Points: 3667
+Hawkins Points: 1346
+Biden wins with Plurality 
+
+Borda: Vermont
+Biden Points: 978441
+Trump Points: 835662
+Jorgensen Points: 285443
+Hawkins Points: 104950
+Biden wins with Borda 
+
+Copeland: Vermont
+Biden Points: 3
+Trump Points: 2
+Jorgensen Points: 1
+Hawkins Points: 0
+Biden wins with Copeland 
+
+2-Approval: Vermont
+Biden Points: 363529
+Trump Points: 353623
+Jorgensen Points: 12926
+Hawkins Points: 4754
+Biden wins with 2-Approval 
+
+Veto: Vermont
+Biden Points: -37
+Trump Points: -247
+Jorgensen Points: -98566
+Hawkins Points: -268566
+Biden wins with Veto 
+
+Plurality w/ Runoff: Vermont
+Hawkins removed after first round
+Biden wins with Plurality w/ Runoff
+
+STV: Vermont
+Hawkins removed after first round
+Jorgensen removed after second round
+Trump removed after third round
+Biden wins with STV
+
+Plurality: Virginia
+Biden Points: 2424255
+Trump Points: 1971303
+Jorgensen Points: 64962
+Hawkins Points: 0
+Biden wins with Plurality 
+
+Borda: Virginia
+Biden Points: 11264715
+Trump Points: 10779174
+Jorgensen Points: 4719231
+Hawkins Points: 0
+Biden wins with Borda 
+
+Copeland: Virginia
+Biden Points: 3
+Trump Points: 2
+Jorgensen Points: 1
+Hawkins Points: 0
+Biden wins with Copeland 
+
+2-Approval: Virginia
+Biden Points: 4379940
+Trump Points: 4347351
+Jorgensen Points: 193749
+Hawkins Points: 0
+Biden wins with 2-Approval 
+
+Veto: Virginia
+Biden Points: 0
+Trump Points: 0
+Jorgensen Points: 0
+Hawkins Points: -4460520
+Biden wins with Veto 
+
+Plurality w/ Runoff: Virginia
+Hawkins removed after first round
+Biden wins with Plurality w/ Runoff
+
+STV: Virginia
+Hawkins removed after first round
+Jorgensen removed after second round
+Trump removed after third round
+Biden wins with STV
+
+Plurality: Washington
+Biden Points: 2389670
+Trump Points: 1598196
+Jorgensen Points: 81205
+Hawkins Points: 18547
+Biden wins with Plurality 
+
+Borda: Washington
+Biden Points: 10458863
+Trump Points: 9568863
+Jorgensen Points: 3659518
+Hawkins Points: 838464
+Biden wins with Borda 
+
+Copeland: Washington
+Biden Points: 3
+Trump Points: 2
+Jorgensen Points: 1
+Hawkins Points: 0
+Biden wins with Copeland 
+
+2-Approval: Washington
+Biden Points: 3983153
+Trump Points: 3887149
+Jorgensen Points: 247998
+Hawkins Points: 56936
+Biden wins with 2-Approval 
+
+Veto: Washington
+Biden Points: -1578
+Trump Points: -4100
+Jorgensen Points: -757303
+Hawkins Points: -3324637
+Biden wins with Veto 
+
+Plurality w/ Runoff: Washington
+Hawkins removed after first round
+Biden wins with Plurality w/ Runoff
+
+STV: Washington
+Hawkins removed after first round
+Jorgensen removed after second round
+Trump removed after third round
+Biden wins with STV
+
+Plurality: West Virginia
+Trump Points: 545450
+Biden Points: 236000
+Jorgensen Points: 10648
+Hawkins Points: 2620
+Trump wins with Plurality 
+
+Borda: West Virginia
+Trump Points: 2125137
+Biden Points: 1786399
+Jorgensen Points: 687210
+Hawkins Points: 169562
+Trump wins with Borda 
+
+Copeland: West Virginia
+Trump Points: 2.5
+Biden Points: 2.5
+Jorgensen Points: 1
+Hawkins Points: 0
+Trump wins with Copeland 
+
+2-Approval: West Virginia
+Trump Points: 785060
+Biden Points: 756391
+Jorgensen Points: 38486
+Hawkins Points: 9499
+Trump wins with 2-Approval 
+
+Veto: West Virginia
+Trump Points: -91
+Biden Points: -710
+Jorgensen Points: -156642
+Hawkins Points: -637275
+Trump wins with Veto 
+
+Plurality w/ Runoff: West Virginia
+Hawkins removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: West Virginia
+Hawkins removed after first round
+Jorgensen removed after second round
+Biden removed after third round
+Trump wins with STV
+
+Plurality: Wisconsin
+Biden Points: 1639569
+Trump Points: 1618680
+Jorgensen Points: 38788
+Hawkins Points: 992
+Biden wins with Plurality 
+
+Borda: Wisconsin
+Biden Points: 8177430
+Trump Points: 8155300
+Jorgensen Points: 3368986
+Hawkins Points: 86458
+Biden wins with Borda 
+
+Copeland: Wisconsin
+Biden Points: 3
+Trump Points: 2
+Jorgensen Points: 1
+Hawkins Points: 0
+Biden wins with Copeland 
+
+2-Approval: Wisconsin
+Biden Points: 3239908
+Trump Points: 3238669
+Jorgensen Points: 114538
+Hawkins Points: 2943
+Biden wins with 2-Approval 
+
+Veto: Wisconsin
+Biden Points: -76
+Trump Points: -78
+Jorgensen Points: -82369
+Hawkins Points: -3215506
+Biden wins with Veto 
+
+Plurality w/ Runoff: Wisconsin
+Hawkins removed after first round
+Biden wins with Plurality w/ Runoff
+
+STV: Wisconsin
+Hawkins removed after first round
+Jorgensen removed after second round
+Trump removed after third round
+Biden wins with STV
+
+Plurality: Wyoming
+Trump Points: 196377
+Biden Points: 74546
+Jorgensen Points: 5839
+Hawkins Points: 0
+Trump wins with Plurality 
+
+Borda: Wyoming
+Trump Points: 746143
+Biden Points: 609570
+Jorgensen Points: 304859
+Hawkins Points: 0
+Trump wins with Borda 
+
+Copeland: Wyoming
+Trump Points: 2.5
+Biden Points: 2.5
+Jorgensen Points: 1
+Hawkins Points: 0
+Trump wins with Copeland 
+
+2-Approval: Wyoming
+Trump Points: 273004
+Biden Points: 258262
+Jorgensen Points: 22258
+Hawkins Points: 0
+Trump wins with 2-Approval 
+
+Veto: Wyoming
+Trump Points: 0
+Biden Points: 0
+Jorgensen Points: 0
+Hawkins Points: -276762
+Trump wins with Veto 
+
+Plurality w/ Runoff: Wyoming
+Hawkins removed after first round
+Trump wins with Plurality w/ Runoff
+
+STV: Wyoming
+Hawkins removed after first round
+Jorgensen removed after second round
+Biden removed after third round
+Trump wins with STV
+
+PLURALITY SIMULATION
+Trump wins Alabama under Plurality and receives 9 electoral votes
+Trump wins Alaska under Plurality and receives 3 electoral votes
+Biden wins Arizona under Plurality and receives 11 electoral votes
+Trump wins Arkansas under Plurality and receives 6 electoral votes
+Biden wins California under Plurality and receives 55 electoral votes
+Biden wins Colorado under Plurality and receives 9 electoral votes
+Biden wins Connecticut under Plurality and receives 7 electoral votes
+Biden wins Delaware under Plurality and receives 3 electoral votes
+Biden wins Washington D.C. under Plurality and receives 3 electoral votes
+Trump wins Florida under Plurality and receives 29 electoral votes
+Biden wins Georgia under Plurality and receives 16 electoral votes
+Biden wins Hawaii under Plurality and receives 4 electoral votes
+Trump wins Idaho under Plurality and receives 4 electoral votes
+Biden wins Illinois under Plurality and receives 20 electoral votes
+Trump wins Indiana under Plurality and receives 11 electoral votes
+Trump wins Iowa under Plurality and receives 6 electoral votes
+Trump wins Kansas under Plurality and receives 6 electoral votes
+Trump wins Kentucky under Plurality and receives 8 electoral votes
+Trump wins Louisiana under Plurality and receives 8 electoral votes
+Biden wins Maine under Plurality and receives 2 electoral votes
+Biden wins Maine1 under Plurality and receives 1 electoral votes
+Trump wins Maine2 under Plurality and receives 1 electoral votes
+Biden wins Maryland under Plurality and receives 10 electoral votes
+Biden wins Massachusetts under Plurality and receives 11 electoral votes
+Biden wins Michigan under Plurality and receives 16 electoral votes
+Biden wins Minnesota under Plurality and receives 10 electoral votes
+Trump wins Mississippi under Plurality and receives 6 electoral votes
+Trump wins Missouri under Plurality and receives 10 electoral votes
+Trump wins Montana under Plurality and receives 3 electoral votes
+Trump wins Nebraska under Plurality and receives 2 electoral votes
+Trump wins Nebraska1 under Plurality and receives 1 electoral votes
+Biden wins Nebraska2 under Plurality and receives 1 electoral votes
+Trump wins Nebraska3 under Plurality and receives 1 electoral votes
+Biden wins Nevada under Plurality and receives 6 electoral votes
+Biden wins New Hampshire under Plurality and receives 4 electoral votes
+Biden wins New Jersey under Plurality and receives 14 electoral votes
+Biden wins New Mexico under Plurality and receives 5 electoral votes
+Biden wins New York under Plurality and receives 29 electoral votes
+Trump wins North Carolina under Plurality and receives 15 electoral votes
+Trump wins North Dakota under Plurality and receives 3 electoral votes
+Trump wins Ohio under Plurality and receives 18 electoral votes
+Trump wins Oklahoma under Plurality and receives 7 electoral votes
+Biden wins Oregon under Plurality and receives 7 electoral votes
+Biden wins Pennsylvania under Plurality and receives 20 electoral votes
+Biden wins Rhode Island under Plurality and receives 4 electoral votes
+Trump wins South Carolina under Plurality and receives 9 electoral votes
+Trump wins South Dakota under Plurality and receives 3 electoral votes
+Trump wins Tennessee under Plurality and receives 11 electoral votes
+Trump wins Texas under Plurality and receives 38 electoral votes
+Trump wins Utah under Plurality and receives 6 electoral votes
+Biden wins Vermont under Plurality and receives 3 electoral votes
+Biden wins Virginia under Plurality and receives 13 electoral votes
+Biden wins Washington under Plurality and receives 12 electoral votes
+Trump wins West Virginia under Plurality and receives 5 electoral votes
+Biden wins Wisconsin under Plurality and receives 10 electoral votes
+Trump wins Wyoming under Plurality and receives 3 electoral votes
+Biden Electoral Votes: 306
+Trump Electoral Votes: 232
+Jorgensen Electoral Votes: 0
+Hawkins Electoral Votes: 0
+Biden wins with Plurality 
+
+
+BORDA SIMULATION
+Trump wins Alabama under Borda and receives 9 electoral votes
+Trump wins Alaska under Borda and receives 3 electoral votes
+Biden wins Arizona under Borda and receives 11 electoral votes
+Trump wins Arkansas under Borda and receives 6 electoral votes
+Biden wins California under Borda and receives 55 electoral votes
+Biden wins Colorado under Borda and receives 9 electoral votes
+Biden wins Connecticut under Borda and receives 7 electoral votes
+Biden wins Delaware under Borda and receives 3 electoral votes
+Biden wins Washington D.C. under Borda and receives 3 electoral votes
+Trump wins Florida under Borda and receives 29 electoral votes
+Biden wins Georgia under Borda and receives 16 electoral votes
+Biden wins Hawaii under Borda and receives 4 electoral votes
+Trump wins Idaho under Borda and receives 4 electoral votes
+Biden wins Illinois under Borda and receives 20 electoral votes
+Trump wins Indiana under Borda and receives 11 electoral votes
+Trump wins Iowa under Borda and receives 6 electoral votes
+Trump wins Kansas under Borda and receives 6 electoral votes
+Trump wins Kentucky under Borda and receives 8 electoral votes
+Trump wins Louisiana under Borda and receives 8 electoral votes
+Biden wins Maine under Borda and receives 2 electoral votes
+Biden wins Maine1 under Borda and receives 1 electoral votes
+Trump wins Maine2 under Borda and receives 1 electoral votes
+Biden wins Maryland under Borda and receives 10 electoral votes
+Biden wins Massachusetts under Borda and receives 11 electoral votes
+Biden wins Michigan under Borda and receives 16 electoral votes
+Biden wins Minnesota under Borda and receives 10 electoral votes
+Trump wins Mississippi under Borda and receives 6 electoral votes
+Trump wins Missouri under Borda and receives 10 electoral votes
+Trump wins Montana under Borda and receives 3 electoral votes
+Trump wins Nebraska under Borda and receives 2 electoral votes
+Trump wins Nebraska1 under Borda and receives 1 electoral votes
+Biden wins Nebraska2 under Borda and receives 1 electoral votes
+Trump wins Nebraska3 under Borda and receives 1 electoral votes
+Biden wins Nevada under Borda and receives 6 electoral votes
+Biden wins New Hampshire under Borda and receives 4 electoral votes
+Biden wins New Jersey under Borda and receives 14 electoral votes
+Biden wins New Mexico under Borda and receives 5 electoral votes
+Biden wins New York under Borda and receives 29 electoral votes
+Trump wins North Carolina under Borda and receives 15 electoral votes
+Trump wins North Dakota under Borda and receives 3 electoral votes
+Trump wins Ohio under Borda and receives 18 electoral votes
+Trump wins Oklahoma under Borda and receives 7 electoral votes
+Biden wins Oregon under Borda and receives 7 electoral votes
+Biden wins Pennsylvania under Borda and receives 20 electoral votes
+Biden wins Rhode Island under Borda and receives 4 electoral votes
+Trump wins South Carolina under Borda and receives 9 electoral votes
+Trump wins South Dakota under Borda and receives 3 electoral votes
+Trump wins Tennessee under Borda and receives 11 electoral votes
+Trump wins Texas under Borda and receives 38 electoral votes
+Trump wins Utah under Borda and receives 6 electoral votes
+Biden wins Vermont under Borda and receives 3 electoral votes
+Biden wins Virginia under Borda and receives 13 electoral votes
+Biden wins Washington under Borda and receives 12 electoral votes
+Trump wins West Virginia under Borda and receives 5 electoral votes
+Biden wins Wisconsin under Borda and receives 10 electoral votes
+Trump wins Wyoming under Borda and receives 3 electoral votes
+Biden Electoral Votes: 306
+Trump Electoral Votes: 232
+Jorgensen Electoral Votes: 0
+Hawkins Electoral Votes: 0
+Biden wins with Borda 
+
+
+COPELAND SIMULATION
+Trump wins Alabama under Copeland and receives 9 electoral votes
+Trump wins Alaska under Copeland and receives 3 electoral votes
+Biden wins Arizona under Copeland and receives 11 electoral votes
+Trump wins Arkansas under Copeland and receives 6 electoral votes
+Biden wins California under Copeland and receives 55 electoral votes
+Biden wins Colorado under Copeland and receives 9 electoral votes
+Biden wins Connecticut under Copeland and receives 7 electoral votes
+Biden wins Delaware under Copeland and receives 3 electoral votes
+Biden wins Washington D.C. under Copeland and receives 3 electoral votes
+Trump wins Florida under Copeland and receives 29 electoral votes
+Biden wins Georgia under Copeland and receives 16 electoral votes
+Biden wins Hawaii under Copeland and receives 4 electoral votes
+Trump wins Idaho under Copeland and receives 4 electoral votes
+Biden wins Illinois under Copeland and receives 20 electoral votes
+Trump wins Indiana under Copeland and receives 11 electoral votes
+Trump wins Iowa under Copeland and receives 6 electoral votes
+Trump wins Kansas under Copeland and receives 6 electoral votes
+Trump wins Kentucky under Copeland and receives 8 electoral votes
+Trump wins Louisiana under Copeland and receives 8 electoral votes
+Biden wins Maine under Copeland and receives 2 electoral votes
+Biden wins Maine1 under Copeland and receives 1 electoral votes
+Trump wins Maine2 under Copeland and receives 1 electoral votes
+Biden wins Maryland under Copeland and receives 10 electoral votes
+Biden wins Massachusetts under Copeland and receives 11 electoral votes
+Biden wins Michigan under Copeland and receives 16 electoral votes
+Biden wins Minnesota under Copeland and receives 10 electoral votes
+Trump wins Mississippi under Copeland and receives 6 electoral votes
+Trump wins Missouri under Copeland and receives 10 electoral votes
+Trump wins Montana under Copeland and receives 3 electoral votes
+Trump wins Nebraska under Copeland and receives 2 electoral votes
+Trump wins Nebraska1 under Copeland and receives 1 electoral votes
+Biden wins Nebraska2 under Copeland and receives 1 electoral votes
+Trump wins Nebraska3 under Copeland and receives 1 electoral votes
+Biden wins Nevada under Copeland and receives 6 electoral votes
+Biden wins New Hampshire under Copeland and receives 4 electoral votes
+Biden wins New Jersey under Copeland and receives 14 electoral votes
+Biden wins New Mexico under Copeland and receives 5 electoral votes
+Biden wins New York under Copeland and receives 29 electoral votes
+Trump wins North Carolina under Copeland and receives 15 electoral votes
+Trump wins North Dakota under Copeland and receives 3 electoral votes
+Trump wins Ohio under Copeland and receives 18 electoral votes
+Trump wins Oklahoma under Copeland and receives 7 electoral votes
+Biden wins Oregon under Copeland and receives 7 electoral votes
+Biden wins Pennsylvania under Copeland and receives 20 electoral votes
+Biden wins Rhode Island under Copeland and receives 4 electoral votes
+Trump wins South Carolina under Copeland and receives 9 electoral votes
+Trump wins South Dakota under Copeland and receives 3 electoral votes
+Trump wins Tennessee under Copeland and receives 11 electoral votes
+Trump wins Texas under Copeland and receives 38 electoral votes
+Trump wins Utah under Copeland and receives 6 electoral votes
+Biden wins Vermont under Copeland and receives 3 electoral votes
+Biden wins Virginia under Copeland and receives 13 electoral votes
+Biden wins Washington under Copeland and receives 12 electoral votes
+Trump wins West Virginia under Copeland and receives 5 electoral votes
+Biden wins Wisconsin under Copeland and receives 10 electoral votes
+Trump wins Wyoming under Copeland and receives 3 electoral votes
+Biden Electoral Votes: 306
+Trump Electoral Votes: 232
+Jorgensen Electoral Votes: 0
+Hawkins Electoral Votes: 0
+Biden wins with Copeland 
+
+
+2-APPROVAL SIMULATION
+Trump wins Alabama under 2-Approval and receives 9 electoral votes
+Trump wins Alaska under 2-Approval and receives 3 electoral votes
+Biden wins Arizona under 2-Approval and receives 11 electoral votes
+Trump wins Arkansas under 2-Approval and receives 6 electoral votes
+Biden wins California under 2-Approval and receives 55 electoral votes
+Biden wins Colorado under 2-Approval and receives 9 electoral votes
+Biden wins Connecticut under 2-Approval and receives 7 electoral votes
+Biden wins Delaware under 2-Approval and receives 3 electoral votes
+Biden wins Washington D.C. under 2-Approval and receives 3 electoral votes
+Trump wins Florida under 2-Approval and receives 29 electoral votes
+Biden wins Georgia under 2-Approval and receives 16 electoral votes
+Biden wins Hawaii under 2-Approval and receives 4 electoral votes
+Trump wins Idaho under 2-Approval and receives 4 electoral votes
+Biden wins Illinois under 2-Approval and receives 20 electoral votes
+Trump wins Indiana under 2-Approval and receives 11 electoral votes
+Trump wins Iowa under 2-Approval and receives 6 electoral votes
+Trump wins Kansas under 2-Approval and receives 6 electoral votes
+Trump wins Kentucky under 2-Approval and receives 8 electoral votes
+Trump wins Louisiana under 2-Approval and receives 8 electoral votes
+Biden wins Maine under 2-Approval and receives 2 electoral votes
+Biden wins Maine1 under 2-Approval and receives 1 electoral votes
+Trump wins Maine2 under 2-Approval and receives 1 electoral votes
+Biden wins Maryland under 2-Approval and receives 10 electoral votes
+Biden wins Massachusetts under 2-Approval and receives 11 electoral votes
+Biden wins Michigan under 2-Approval and receives 16 electoral votes
+Biden wins Minnesota under 2-Approval and receives 10 electoral votes
+Trump wins Mississippi under 2-Approval and receives 6 electoral votes
+Trump wins Missouri under 2-Approval and receives 10 electoral votes
+Trump wins Montana under 2-Approval and receives 3 electoral votes
+Trump wins Nebraska under 2-Approval and receives 2 electoral votes
+Trump wins Nebraska1 under 2-Approval and receives 1 electoral votes
+Biden wins Nebraska2 under 2-Approval and receives 1 electoral votes
+Trump wins Nebraska3 under 2-Approval and receives 1 electoral votes
+Biden wins Nevada under 2-Approval and receives 6 electoral votes
+Biden wins New Hampshire under 2-Approval and receives 4 electoral votes
+Biden wins New Jersey under 2-Approval and receives 14 electoral votes
+Biden wins New Mexico under 2-Approval and receives 5 electoral votes
+Biden wins New York under 2-Approval and receives 29 electoral votes
+Trump wins North Carolina under 2-Approval and receives 15 electoral votes
+Trump wins North Dakota under 2-Approval and receives 3 electoral votes
+Trump wins Ohio under 2-Approval and receives 18 electoral votes
+Trump wins Oklahoma under 2-Approval and receives 7 electoral votes
+Biden wins Oregon under 2-Approval and receives 7 electoral votes
+Biden wins Pennsylvania under 2-Approval and receives 20 electoral votes
+Biden wins Rhode Island under 2-Approval and receives 4 electoral votes
+Trump wins South Carolina under 2-Approval and receives 9 electoral votes
+Trump wins South Dakota under 2-Approval and receives 3 electoral votes
+Trump wins Tennessee under 2-Approval and receives 11 electoral votes
+Trump wins Texas under 2-Approval and receives 38 electoral votes
+Trump wins Utah under 2-Approval and receives 6 electoral votes
+Biden wins Vermont under 2-Approval and receives 3 electoral votes
+Biden wins Virginia under 2-Approval and receives 13 electoral votes
+Biden wins Washington under 2-Approval and receives 12 electoral votes
+Trump wins West Virginia under 2-Approval and receives 5 electoral votes
+Biden wins Wisconsin under 2-Approval and receives 10 electoral votes
+Trump wins Wyoming under 2-Approval and receives 3 electoral votes
+Biden Electoral Votes: 306
+Trump Electoral Votes: 232
+Jorgensen Electoral Votes: 0
+Hawkins Electoral Votes: 0
+Biden wins with 2-Approval 
+
+
+VETO SIMULATION
+Trump wins Alabama under Veto and receives 9 electoral votes
+Trump wins Alaska under Veto and receives 3 electoral votes
+Biden wins Arizona under Veto and receives 11 electoral votes
+Trump wins Arkansas under Veto and receives 6 electoral votes
+Biden wins California under Veto and receives 55 electoral votes
+Biden wins Colorado under Veto and receives 9 electoral votes
+Biden wins Connecticut under Veto and receives 7 electoral votes
+Biden wins Delaware under Veto and receives 3 electoral votes
+Biden wins Washington D.C. under Veto and receives 3 electoral votes
+Trump wins Florida under Veto and receives 29 electoral votes
+Biden wins Georgia under Veto and receives 16 electoral votes
+Biden wins Hawaii under Veto and receives 4 electoral votes
+Trump wins Idaho under Veto and receives 4 electoral votes
+Biden wins Illinois under Veto and receives 20 electoral votes
+Trump wins Indiana under Veto and receives 11 electoral votes
+Trump wins Iowa under Veto and receives 6 electoral votes
+Trump wins Kansas under Veto and receives 6 electoral votes
+Trump wins Kentucky under Veto and receives 8 electoral votes
+Trump wins Louisiana under Veto and receives 8 electoral votes
+Biden wins Maine under Veto and receives 2 electoral votes
+Biden wins Maine1 under Veto and receives 1 electoral votes
+Trump wins Maine2 under Veto and receives 1 electoral votes
+Biden wins Maryland under Veto and receives 10 electoral votes
+Biden wins Massachusetts under Veto and receives 11 electoral votes
+Biden wins Michigan under Veto and receives 16 electoral votes
+Biden wins Minnesota under Veto and receives 10 electoral votes
+Trump wins Mississippi under Veto and receives 6 electoral votes
+Trump wins Missouri under Veto and receives 10 electoral votes
+Trump wins Montana under Veto and receives 3 electoral votes
+Trump wins Nebraska under Veto and receives 2 electoral votes
+Trump wins Nebraska1 under Veto and receives 1 electoral votes
+Biden wins Nebraska2 under Veto and receives 1 electoral votes
+Trump wins Nebraska3 under Veto and receives 1 electoral votes
+Biden wins Nevada under Veto and receives 6 electoral votes
+Biden wins New Hampshire under Veto and receives 4 electoral votes
+Biden wins New Jersey under Veto and receives 14 electoral votes
+Biden wins New Mexico under Veto and receives 5 electoral votes
+Biden wins New York under Veto and receives 29 electoral votes
+Trump wins North Carolina under Veto and receives 15 electoral votes
+Trump wins North Dakota under Veto and receives 3 electoral votes
+Trump wins Ohio under Veto and receives 18 electoral votes
+Trump wins Oklahoma under Veto and receives 7 electoral votes
+Biden wins Oregon under Veto and receives 7 electoral votes
+Biden wins Pennsylvania under Veto and receives 20 electoral votes
+Biden wins Rhode Island under Veto and receives 4 electoral votes
+Trump wins South Carolina under Veto and receives 9 electoral votes
+Trump wins South Dakota under Veto and receives 3 electoral votes
+Trump wins Tennessee under Veto and receives 11 electoral votes
+Trump wins Texas under Veto and receives 38 electoral votes
+Trump wins Utah under Veto and receives 6 electoral votes
+Biden wins Vermont under Veto and receives 3 electoral votes
+Biden wins Virginia under Veto and receives 13 electoral votes
+Biden wins Washington under Veto and receives 12 electoral votes
+Trump wins West Virginia under Veto and receives 5 electoral votes
+Biden wins Wisconsin under Veto and receives 10 electoral votes
+Trump wins Wyoming under Veto and receives 3 electoral votes
+Biden Electoral Votes: 306
+Trump Electoral Votes: 232
+Jorgensen Electoral Votes: 0
+Hawkins Electoral Votes: 0
+Biden wins with Veto 
+
+
+PLURALITY W/ RUNOFF SIMULATION
+Trump wins Alabama under Plurality w/ Runoff and receives 9 electoral votes
+Trump wins Alaska under Plurality w/ Runoff and receives 3 electoral votes
+Biden wins Arizona under Plurality w/ Runoff and receives 11 electoral votes
+Trump wins Arkansas under Plurality w/ Runoff and receives 6 electoral votes
+Biden wins California under Plurality w/ Runoff and receives 55 electoral votes
+Biden wins Colorado under Plurality w/ Runoff and receives 9 electoral votes
+Biden wins Connecticut under Plurality w/ Runoff and receives 7 electoral votes
+Biden wins Delaware under Plurality w/ Runoff and receives 3 electoral votes
+Biden wins Washington D.C. under Plurality w/ Runoff and receives 3 electoral votes
+Trump wins Florida under Plurality w/ Runoff and receives 29 electoral votes
+Biden wins Georgia under Plurality w/ Runoff and receives 16 electoral votes
+Biden wins Hawaii under Plurality w/ Runoff and receives 4 electoral votes
+Trump wins Idaho under Plurality w/ Runoff and receives 4 electoral votes
+Biden wins Illinois under Plurality w/ Runoff and receives 20 electoral votes
+Trump wins Indiana under Plurality w/ Runoff and receives 11 electoral votes
+Trump wins Iowa under Plurality w/ Runoff and receives 6 electoral votes
+Trump wins Kansas under Plurality w/ Runoff and receives 6 electoral votes
+Trump wins Kentucky under Plurality w/ Runoff and receives 8 electoral votes
+Trump wins Louisiana under Plurality w/ Runoff and receives 8 electoral votes
+Biden wins Maine under Plurality w/ Runoff and receives 2 electoral votes
+Biden wins Maine1 under Plurality w/ Runoff and receives 1 electoral votes
+Trump wins Maine2 under Plurality w/ Runoff and receives 1 electoral votes
+Biden wins Maryland under Plurality w/ Runoff and receives 10 electoral votes
+Biden wins Massachusetts under Plurality w/ Runoff and receives 11 electoral votes
+Biden wins Michigan under Plurality w/ Runoff and receives 16 electoral votes
+Biden wins Minnesota under Plurality w/ Runoff and receives 10 electoral votes
+Trump wins Mississippi under Plurality w/ Runoff and receives 6 electoral votes
+Trump wins Missouri under Plurality w/ Runoff and receives 10 electoral votes
+Trump wins Montana under Plurality w/ Runoff and receives 3 electoral votes
+Trump wins Nebraska under Plurality w/ Runoff and receives 2 electoral votes
+Trump wins Nebraska1 under Plurality w/ Runoff and receives 1 electoral votes
+Biden wins Nebraska2 under Plurality w/ Runoff and receives 1 electoral votes
+Trump wins Nebraska3 under Plurality w/ Runoff and receives 1 electoral votes
+Biden wins Nevada under Plurality w/ Runoff and receives 6 electoral votes
+Biden wins New Hampshire under Plurality w/ Runoff and receives 4 electoral votes
+Biden wins New Jersey under Plurality w/ Runoff and receives 14 electoral votes
+Biden wins New Mexico under Plurality w/ Runoff and receives 5 electoral votes
+Biden wins New York under Plurality w/ Runoff and receives 29 electoral votes
+Trump wins North Carolina under Plurality w/ Runoff and receives 15 electoral votes
+Trump wins North Dakota under Plurality w/ Runoff and receives 3 electoral votes
+Trump wins Ohio under Plurality w/ Runoff and receives 18 electoral votes
+Trump wins Oklahoma under Plurality w/ Runoff and receives 7 electoral votes
+Biden wins Oregon under Plurality w/ Runoff and receives 7 electoral votes
+Biden wins Pennsylvania under Plurality w/ Runoff and receives 20 electoral votes
+Biden wins Rhode Island under Plurality w/ Runoff and receives 4 electoral votes
+Trump wins South Carolina under Plurality w/ Runoff and receives 9 electoral votes
+Trump wins South Dakota under Plurality w/ Runoff and receives 3 electoral votes
+Trump wins Tennessee under Plurality w/ Runoff and receives 11 electoral votes
+Trump wins Texas under Plurality w/ Runoff and receives 38 electoral votes
+Trump wins Utah under Plurality w/ Runoff and receives 6 electoral votes
+Biden wins Vermont under Plurality w/ Runoff and receives 3 electoral votes
+Biden wins Virginia under Plurality w/ Runoff and receives 13 electoral votes
+Biden wins Washington under Plurality w/ Runoff and receives 12 electoral votes
+Trump wins West Virginia under Plurality w/ Runoff and receives 5 electoral votes
+Biden wins Wisconsin under Plurality w/ Runoff and receives 10 electoral votes
+Trump wins Wyoming under Plurality w/ Runoff and receives 3 electoral votes
+Biden Electoral Votes: 306
+Trump Electoral Votes: 232
+Jorgensen Electoral Votes: 0
+Hawkins Electoral Votes: 0
+Biden wins with Plurality w/ Runoff 
+
+
+STV SIMULATION
+Trump wins Alabama under STV and receives 9 electoral votes
+Trump wins Alaska under STV and receives 3 electoral votes
+Biden wins Arizona under STV and receives 11 electoral votes
+Trump wins Arkansas under STV and receives 6 electoral votes
+Biden wins California under STV and receives 55 electoral votes
+Biden wins Colorado under STV and receives 9 electoral votes
+Biden wins Connecticut under STV and receives 7 electoral votes
+Biden wins Delaware under STV and receives 3 electoral votes
+Biden wins Washington D.C. under STV and receives 3 electoral votes
+Trump wins Florida under STV and receives 29 electoral votes
+Biden wins Georgia under STV and receives 16 electoral votes
+Biden wins Hawaii under STV and receives 4 electoral votes
+Trump wins Idaho under STV and receives 4 electoral votes
+Biden wins Illinois under STV and receives 20 electoral votes
+Trump wins Indiana under STV and receives 11 electoral votes
+Trump wins Iowa under STV and receives 6 electoral votes
+Trump wins Kansas under STV and receives 6 electoral votes
+Trump wins Kentucky under STV and receives 8 electoral votes
+Trump wins Louisiana under STV and receives 8 electoral votes
+Biden wins Maine under STV and receives 2 electoral votes
+Biden wins Maine1 under STV and receives 1 electoral votes
+Trump wins Maine2 under STV and receives 1 electoral votes
+Biden wins Maryland under STV and receives 10 electoral votes
+Biden wins Massachusetts under STV and receives 11 electoral votes
+Biden wins Michigan under STV and receives 16 electoral votes
+Biden wins Minnesota under STV and receives 10 electoral votes
+Trump wins Mississippi under STV and receives 6 electoral votes
+Trump wins Missouri under STV and receives 10 electoral votes
+Trump wins Montana under STV and receives 3 electoral votes
+Trump wins Nebraska under STV and receives 2 electoral votes
+Trump wins Nebraska1 under STV and receives 1 electoral votes
+Biden wins Nebraska2 under STV and receives 1 electoral votes
+Trump wins Nebraska3 under STV and receives 1 electoral votes
+Biden wins Nevada under STV and receives 6 electoral votes
+Biden wins New Hampshire under STV and receives 4 electoral votes
+Biden wins New Jersey under STV and receives 14 electoral votes
+Biden wins New Mexico under STV and receives 5 electoral votes
+Biden wins New York under STV and receives 29 electoral votes
+Trump wins North Carolina under STV and receives 15 electoral votes
+Trump wins North Dakota under STV and receives 3 electoral votes
+Trump wins Ohio under STV and receives 18 electoral votes
+Trump wins Oklahoma under STV and receives 7 electoral votes
+Biden wins Oregon under STV and receives 7 electoral votes
+Biden wins Pennsylvania under STV and receives 20 electoral votes
+Biden wins Rhode Island under STV and receives 4 electoral votes
+Trump wins South Carolina under STV and receives 9 electoral votes
+Trump wins South Dakota under STV and receives 3 electoral votes
+Trump wins Tennessee under STV and receives 11 electoral votes
+Trump wins Texas under STV and receives 38 electoral votes
+Trump wins Utah under STV and receives 6 electoral votes
+Biden wins Vermont under STV and receives 3 electoral votes
+Biden wins Virginia under STV and receives 13 electoral votes
+Biden wins Washington under STV and receives 12 electoral votes
+Trump wins West Virginia under STV and receives 5 electoral votes
+Biden wins Wisconsin under STV and receives 10 electoral votes
+Trump wins Wyoming under STV and receives 3 electoral votes
+Biden Electoral Votes: 306
+Trump Electoral Votes: 232
+Jorgensen Electoral Votes: 0
+Hawkins Electoral Votes: 0
+Biden wins with STV 
